@@ -1,0 +1,1501 @@
+Date,Year,Month,Country,ISO,Region,Currency,Petrol_USD,Brent_USD,Oil_Import_Dep,Subsidy
+2020-01-01,2020,1,Pakistan,PAK,South Asia,PKR,0.493,57.29,High,True
+2020-02-01,2020,2,Pakistan,PAK,South Asia,PKR,0.41,44.76,High,True
+2020-03-01,2020,3,Pakistan,PAK,South Asia,PKR,0.369,32.92,High,True
+2020-04-01,2020,4,Pakistan,PAK,South Asia,PKR,0.366,30.84,High,True
+2020-05-01,2020,5,Pakistan,PAK,South Asia,PKR,0.377,37.85,High,True
+2020-06-01,2020,6,Pakistan,PAK,South Asia,PKR,0.407,42.24,High,True
+2020-07-01,2020,7,Pakistan,PAK,South Asia,PKR,0.408,42.5,High,True
+2020-08-01,2020,8,Pakistan,PAK,South Asia,PKR,0.378,41.8,High,True
+2020-09-01,2020,9,Pakistan,PAK,South Asia,PKR,0.418,41.4,High,True
+2020-10-01,2020,10,Pakistan,PAK,South Asia,PKR,0.423,44.0,High,True
+2020-11-01,2020,11,Pakistan,PAK,South Asia,PKR,0.42,47.8,High,True
+2020-12-01,2020,12,Pakistan,PAK,South Asia,PKR,0.448,53.06,High,True
+2021-01-01,2021,1,Pakistan,PAK,South Asia,PKR,0.481,58.7,High,True
+2021-02-01,2021,2,Pakistan,PAK,South Asia,PKR,0.493,64.41,High,True
+2021-03-01,2021,3,Pakistan,PAK,South Asia,PKR,0.503,66.8,High,True
+2021-04-01,2021,4,Pakistan,PAK,South Asia,PKR,0.488,67.58,High,True
+2021-05-01,2021,5,Pakistan,PAK,South Asia,PKR,0.535,71.65,High,True
+2021-06-01,2021,6,Pakistan,PAK,South Asia,PKR,0.539,74.18,High,True
+2021-07-01,2021,7,Pakistan,PAK,South Asia,PKR,0.544,74.83,High,True
+2021-08-01,2021,8,Pakistan,PAK,South Asia,PKR,0.522,76.07,High,True
+2021-09-01,2021,9,Pakistan,PAK,South Asia,PKR,0.583,79.3,High,True
+2021-10-01,2021,10,Pakistan,PAK,South Asia,PKR,0.572,82.1,High,True
+2021-11-01,2021,11,Pakistan,PAK,South Asia,PKR,0.546,77.71,High,True
+2021-12-01,2021,12,Pakistan,PAK,South Asia,PKR,0.589,79.4,High,True
+2022-01-01,2022,1,Pakistan,PAK,South Asia,PKR,0.568,89.91,High,True
+2022-02-01,2022,2,Pakistan,PAK,South Asia,PKR,0.586,105.65,High,True
+2022-03-01,2022,3,Pakistan,PAK,South Asia,PKR,0.62,113.12,High,True
+2022-04-01,2022,4,Pakistan,PAK,South Asia,PKR,0.584,110.3,High,True
+2022-05-01,2022,5,Pakistan,PAK,South Asia,PKR,0.643,113.65,High,True
+2022-06-01,2022,6,Pakistan,PAK,South Asia,PKR,0.612,110.13,High,True
+2022-07-01,2022,7,Pakistan,PAK,South Asia,PKR,0.586,101.45,High,True
+2022-08-01,2022,8,Pakistan,PAK,South Asia,PKR,0.596,94.44,High,True
+2022-09-01,2022,9,Pakistan,PAK,South Asia,PKR,0.546,90.57,High,True
+2022-10-01,2022,10,Pakistan,PAK,South Asia,PKR,0.574,88.6,High,True
+2022-11-01,2022,11,Pakistan,PAK,South Asia,PKR,0.524,84.09,High,True
+2022-12-01,2022,12,Pakistan,PAK,South Asia,PKR,0.539,81.94,High,True
+2023-01-01,2023,1,Pakistan,PAK,South Asia,PKR,0.534,83.22,High,True
+2023-02-01,2023,2,Pakistan,PAK,South Asia,PKR,0.572,82.29,High,True
+2023-03-01,2023,3,Pakistan,PAK,South Asia,PKR,0.568,78.95,High,True
+2023-04-01,2023,4,Pakistan,PAK,South Asia,PKR,0.532,76.73,High,True
+2023-05-01,2023,5,Pakistan,PAK,South Asia,PKR,0.547,75.8,High,True
+2023-06-01,2023,6,Pakistan,PAK,South Asia,PKR,0.537,78.09,High,True
+2023-07-01,2023,7,Pakistan,PAK,South Asia,PKR,0.561,83.05,High,True
+2023-08-01,2023,8,Pakistan,PAK,South Asia,PKR,0.556,89.47,High,True
+2023-09-01,2023,9,Pakistan,PAK,South Asia,PKR,0.545,90.72,High,True
+2023-10-01,2023,10,Pakistan,PAK,South Asia,PKR,0.53,85.31,High,True
+2023-11-01,2023,11,Pakistan,PAK,South Asia,PKR,0.552,80.58,High,True
+2023-12-01,2023,12,Pakistan,PAK,South Asia,PKR,0.576,78.95,High,True
+2024-01-01,2024,1,Pakistan,PAK,South Asia,PKR,0.55,80.62,High,True
+2024-02-01,2024,2,Pakistan,PAK,South Asia,PKR,0.546,83.91,High,True
+2024-03-01,2024,3,Pakistan,PAK,South Asia,PKR,0.591,87.13,High,True
+2024-04-01,2024,4,Pakistan,PAK,South Asia,PKR,0.564,86.69,High,True
+2024-05-01,2024,5,Pakistan,PAK,South Asia,PKR,0.556,83.99,High,True
+2024-06-01,2024,6,Pakistan,PAK,South Asia,PKR,0.561,85.16,High,True
+2024-07-01,2024,7,Pakistan,PAK,South Asia,PKR,0.548,82.04,High,True
+2024-08-01,2024,8,Pakistan,PAK,South Asia,PKR,0.536,78.41,High,True
+2024-09-01,2024,9,Pakistan,PAK,South Asia,PKR,0.514,76.27,High,True
+2024-10-01,2024,10,Pakistan,PAK,South Asia,PKR,0.537,73.85,High,True
+2024-11-01,2024,11,Pakistan,PAK,South Asia,PKR,0.531,75.22,High,True
+2024-12-01,2024,12,Pakistan,PAK,South Asia,PKR,0.558,78.32,High,True
+2025-01-01,2025,1,Pakistan,PAK,South Asia,PKR,0.535,78.26,High,True
+2025-02-01,2025,2,Pakistan,PAK,South Asia,PKR,0.504,75.04,High,True
+2025-03-01,2025,3,Pakistan,PAK,South Asia,PKR,0.521,71.18,High,True
+2025-04-01,2025,4,Pakistan,PAK,South Asia,PKR,0.543,68.93,High,True
+2025-05-01,2025,5,Pakistan,PAK,South Asia,PKR,0.51,68.11,High,True
+2025-06-01,2025,6,Pakistan,PAK,South Asia,PKR,0.506,69.63,High,True
+2025-07-01,2025,7,Pakistan,PAK,South Asia,PKR,0.505,71.19,High,True
+2025-08-01,2025,8,Pakistan,PAK,South Asia,PKR,0.509,71.81,High,True
+2025-09-01,2025,9,Pakistan,PAK,South Asia,PKR,0.523,73.22,High,True
+2025-10-01,2025,10,Pakistan,PAK,South Asia,PKR,0.512,74.05,High,True
+2025-11-01,2025,11,Pakistan,PAK,South Asia,PKR,0.553,74.48,High,True
+2025-12-01,2025,12,Pakistan,PAK,South Asia,PKR,0.525,73.87,High,True
+2026-01-01,2026,1,Pakistan,PAK,South Asia,PKR,0.528,72.62,High,True
+2026-02-01,2026,2,Pakistan,PAK,South Asia,PKR,0.548,72.51,High,True
+2026-03-01,2026,3,Pakistan,PAK,South Asia,PKR,0.549,72.61,High,True
+2020-01-01,2020,1,India,IND,South Asia,INR,0.717,57.29,High,True
+2020-02-01,2020,2,India,IND,South Asia,INR,0.646,44.76,High,True
+2020-03-01,2020,3,India,IND,South Asia,INR,0.578,32.92,High,True
+2020-04-01,2020,4,India,IND,South Asia,INR,0.551,30.84,High,True
+2020-05-01,2020,5,India,IND,South Asia,INR,0.571,37.85,High,True
+2020-06-01,2020,6,India,IND,South Asia,INR,0.635,42.24,High,True
+2020-07-01,2020,7,India,IND,South Asia,INR,0.641,42.5,High,True
+2020-08-01,2020,8,India,IND,South Asia,INR,0.629,41.8,High,True
+2020-09-01,2020,9,India,IND,South Asia,INR,0.606,41.4,High,True
+2020-10-01,2020,10,India,IND,South Asia,INR,0.634,44.0,High,True
+2020-11-01,2020,11,India,IND,South Asia,INR,0.652,47.8,High,True
+2020-12-01,2020,12,India,IND,South Asia,INR,0.689,53.06,High,True
+2021-01-01,2021,1,India,IND,South Asia,INR,0.748,58.7,High,True
+2021-02-01,2021,2,India,IND,South Asia,INR,0.788,64.41,High,True
+2021-03-01,2021,3,India,IND,South Asia,INR,0.79,66.8,High,True
+2021-04-01,2021,4,India,IND,South Asia,INR,0.793,67.58,High,True
+2021-05-01,2021,5,India,IND,South Asia,INR,0.821,71.65,High,True
+2021-06-01,2021,6,India,IND,South Asia,INR,0.826,74.18,High,True
+2021-07-01,2021,7,India,IND,South Asia,INR,0.829,74.83,High,True
+2021-08-01,2021,8,India,IND,South Asia,INR,0.828,76.07,High,True
+2021-09-01,2021,9,India,IND,South Asia,INR,0.858,79.3,High,True
+2021-10-01,2021,10,India,IND,South Asia,INR,0.91,82.1,High,True
+2021-11-01,2021,11,India,IND,South Asia,INR,0.862,77.71,High,True
+2021-12-01,2021,12,India,IND,South Asia,INR,0.854,79.4,High,True
+2022-01-01,2022,1,India,IND,South Asia,INR,0.868,89.91,High,True
+2022-02-01,2022,2,India,IND,South Asia,INR,0.921,105.65,High,True
+2022-03-01,2022,3,India,IND,South Asia,INR,0.968,113.12,High,True
+2022-04-01,2022,4,India,IND,South Asia,INR,0.958,110.3,High,True
+2022-05-01,2022,5,India,IND,South Asia,INR,0.943,113.65,High,True
+2022-06-01,2022,6,India,IND,South Asia,INR,0.959,110.13,High,True
+2022-07-01,2022,7,India,IND,South Asia,INR,0.91,101.45,High,True
+2022-08-01,2022,8,India,IND,South Asia,INR,0.914,94.44,High,True
+2022-09-01,2022,9,India,IND,South Asia,INR,0.88,90.57,High,True
+2022-10-01,2022,10,India,IND,South Asia,INR,0.896,88.6,High,True
+2022-11-01,2022,11,India,IND,South Asia,INR,0.846,84.09,High,True
+2022-12-01,2022,12,India,IND,South Asia,INR,0.841,81.94,High,True
+2023-01-01,2023,1,India,IND,South Asia,INR,0.854,83.22,High,True
+2023-02-01,2023,2,India,IND,South Asia,INR,0.862,82.29,High,True
+2023-03-01,2023,3,India,IND,South Asia,INR,0.842,78.95,High,True
+2023-04-01,2023,4,India,IND,South Asia,INR,0.807,76.73,High,True
+2023-05-01,2023,5,India,IND,South Asia,INR,0.825,75.8,High,True
+2023-06-01,2023,6,India,IND,South Asia,INR,0.831,78.09,High,True
+2023-07-01,2023,7,India,IND,South Asia,INR,0.843,83.05,High,True
+2023-08-01,2023,8,India,IND,South Asia,INR,0.864,89.47,High,True
+2023-09-01,2023,9,India,IND,South Asia,INR,0.904,90.72,High,True
+2023-10-01,2023,10,India,IND,South Asia,INR,0.852,85.31,High,True
+2023-11-01,2023,11,India,IND,South Asia,INR,0.827,80.58,High,True
+2023-12-01,2023,12,India,IND,South Asia,INR,0.843,78.95,High,True
+2024-01-01,2024,1,India,IND,South Asia,INR,0.842,80.62,High,True
+2024-02-01,2024,2,India,IND,South Asia,INR,0.851,83.91,High,True
+2024-03-01,2024,3,India,IND,South Asia,INR,0.876,87.13,High,True
+2024-04-01,2024,4,India,IND,South Asia,INR,0.87,86.69,High,True
+2024-05-01,2024,5,India,IND,South Asia,INR,0.858,83.99,High,True
+2024-06-01,2024,6,India,IND,South Asia,INR,0.872,85.16,High,True
+2024-07-01,2024,7,India,IND,South Asia,INR,0.85,82.04,High,True
+2024-08-01,2024,8,India,IND,South Asia,INR,0.822,78.41,High,True
+2024-09-01,2024,9,India,IND,South Asia,INR,0.818,76.27,High,True
+2024-10-01,2024,10,India,IND,South Asia,INR,0.807,73.85,High,True
+2024-11-01,2024,11,India,IND,South Asia,INR,0.823,75.22,High,True
+2024-12-01,2024,12,India,IND,South Asia,INR,0.815,78.32,High,True
+2025-01-01,2025,1,India,IND,South Asia,INR,0.804,78.26,High,True
+2025-02-01,2025,2,India,IND,South Asia,INR,0.82,75.04,High,True
+2025-03-01,2025,3,India,IND,South Asia,INR,0.784,71.18,High,True
+2025-04-01,2025,4,India,IND,South Asia,INR,0.767,68.93,High,True
+2025-05-01,2025,5,India,IND,South Asia,INR,0.798,68.11,High,True
+2025-06-01,2025,6,India,IND,South Asia,INR,0.788,69.63,High,True
+2025-07-01,2025,7,India,IND,South Asia,INR,0.812,71.19,High,True
+2025-08-01,2025,8,India,IND,South Asia,INR,0.799,71.81,High,True
+2025-09-01,2025,9,India,IND,South Asia,INR,0.795,73.22,High,True
+2025-10-01,2025,10,India,IND,South Asia,INR,0.797,74.05,High,True
+2025-11-01,2025,11,India,IND,South Asia,INR,0.809,74.48,High,True
+2025-12-01,2025,12,India,IND,South Asia,INR,0.811,73.87,High,True
+2026-01-01,2026,1,India,IND,South Asia,INR,0.798,72.62,High,True
+2026-02-01,2026,2,India,IND,South Asia,INR,0.805,72.51,High,True
+2026-03-01,2026,3,India,IND,South Asia,INR,0.787,72.61,High,True
+2020-01-01,2020,1,Bangladesh,BGD,South Asia,BDT,0.702,57.29,High,True
+2020-02-01,2020,2,Bangladesh,BGD,South Asia,BDT,0.598,44.76,High,True
+2020-03-01,2020,3,Bangladesh,BGD,South Asia,BDT,0.55,32.92,High,True
+2020-04-01,2020,4,Bangladesh,BGD,South Asia,BDT,0.55,30.84,High,True
+2020-05-01,2020,5,Bangladesh,BGD,South Asia,BDT,0.599,37.85,High,True
+2020-06-01,2020,6,Bangladesh,BGD,South Asia,BDT,0.636,42.24,High,True
+2020-07-01,2020,7,Bangladesh,BGD,South Asia,BDT,0.588,42.5,High,True
+2020-08-01,2020,8,Bangladesh,BGD,South Asia,BDT,0.619,41.8,High,True
+2020-09-01,2020,9,Bangladesh,BGD,South Asia,BDT,0.623,41.4,High,True
+2020-10-01,2020,10,Bangladesh,BGD,South Asia,BDT,0.635,44.0,High,True
+2020-11-01,2020,11,Bangladesh,BGD,South Asia,BDT,0.63,47.8,High,True
+2020-12-01,2020,12,Bangladesh,BGD,South Asia,BDT,0.682,53.06,High,True
+2021-01-01,2021,1,Bangladesh,BGD,South Asia,BDT,0.739,58.7,High,True
+2021-02-01,2021,2,Bangladesh,BGD,South Asia,BDT,0.723,64.41,High,True
+2021-03-01,2021,3,Bangladesh,BGD,South Asia,BDT,0.768,66.8,High,True
+2021-04-01,2021,4,Bangladesh,BGD,South Asia,BDT,0.782,67.58,High,True
+2021-05-01,2021,5,Bangladesh,BGD,South Asia,BDT,0.78,71.65,High,True
+2021-06-01,2021,6,Bangladesh,BGD,South Asia,BDT,0.814,74.18,High,True
+2021-07-01,2021,7,Bangladesh,BGD,South Asia,BDT,0.794,74.83,High,True
+2021-08-01,2021,8,Bangladesh,BGD,South Asia,BDT,0.805,76.07,High,True
+2021-09-01,2021,9,Bangladesh,BGD,South Asia,BDT,0.825,79.3,High,True
+2021-10-01,2021,10,Bangladesh,BGD,South Asia,BDT,0.857,82.1,High,True
+2021-11-01,2021,11,Bangladesh,BGD,South Asia,BDT,0.826,77.71,High,True
+2021-12-01,2021,12,Bangladesh,BGD,South Asia,BDT,0.852,79.4,High,True
+2022-01-01,2022,1,Bangladesh,BGD,South Asia,BDT,0.839,89.91,High,True
+2022-02-01,2022,2,Bangladesh,BGD,South Asia,BDT,0.909,105.65,High,True
+2022-03-01,2022,3,Bangladesh,BGD,South Asia,BDT,0.953,113.12,High,True
+2022-04-01,2022,4,Bangladesh,BGD,South Asia,BDT,0.937,110.3,High,True
+2022-05-01,2022,5,Bangladesh,BGD,South Asia,BDT,0.921,113.65,High,True
+2022-06-01,2022,6,Bangladesh,BGD,South Asia,BDT,0.938,110.13,High,True
+2022-07-01,2022,7,Bangladesh,BGD,South Asia,BDT,0.888,101.45,High,True
+2022-08-01,2022,8,Bangladesh,BGD,South Asia,BDT,0.876,94.44,High,True
+2022-09-01,2022,9,Bangladesh,BGD,South Asia,BDT,0.86,90.57,High,True
+2022-10-01,2022,10,Bangladesh,BGD,South Asia,BDT,0.867,88.6,High,True
+2022-11-01,2022,11,Bangladesh,BGD,South Asia,BDT,0.834,84.09,High,True
+2022-12-01,2022,12,Bangladesh,BGD,South Asia,BDT,0.796,81.94,High,True
+2023-01-01,2023,1,Bangladesh,BGD,South Asia,BDT,0.808,83.22,High,True
+2023-02-01,2023,2,Bangladesh,BGD,South Asia,BDT,0.836,82.29,High,True
+2023-03-01,2023,3,Bangladesh,BGD,South Asia,BDT,0.809,78.95,High,True
+2023-04-01,2023,4,Bangladesh,BGD,South Asia,BDT,0.822,76.73,High,True
+2023-05-01,2023,5,Bangladesh,BGD,South Asia,BDT,0.805,75.8,High,True
+2023-06-01,2023,6,Bangladesh,BGD,South Asia,BDT,0.799,78.09,High,True
+2023-07-01,2023,7,Bangladesh,BGD,South Asia,BDT,0.844,83.05,High,True
+2023-08-01,2023,8,Bangladesh,BGD,South Asia,BDT,0.839,89.47,High,True
+2023-09-01,2023,9,Bangladesh,BGD,South Asia,BDT,0.825,90.72,High,True
+2023-10-01,2023,10,Bangladesh,BGD,South Asia,BDT,0.867,85.31,High,True
+2023-11-01,2023,11,Bangladesh,BGD,South Asia,BDT,0.79,80.58,High,True
+2023-12-01,2023,12,Bangladesh,BGD,South Asia,BDT,0.822,78.95,High,True
+2024-01-01,2024,1,Bangladesh,BGD,South Asia,BDT,0.833,80.62,High,True
+2024-02-01,2024,2,Bangladesh,BGD,South Asia,BDT,0.833,83.91,High,True
+2024-03-01,2024,3,Bangladesh,BGD,South Asia,BDT,0.818,87.13,High,True
+2024-04-01,2024,4,Bangladesh,BGD,South Asia,BDT,0.857,86.69,High,True
+2024-05-01,2024,5,Bangladesh,BGD,South Asia,BDT,0.81,83.99,High,True
+2024-06-01,2024,6,Bangladesh,BGD,South Asia,BDT,0.816,85.16,High,True
+2024-07-01,2024,7,Bangladesh,BGD,South Asia,BDT,0.819,82.04,High,True
+2024-08-01,2024,8,Bangladesh,BGD,South Asia,BDT,0.823,78.41,High,True
+2024-09-01,2024,9,Bangladesh,BGD,South Asia,BDT,0.808,76.27,High,True
+2024-10-01,2024,10,Bangladesh,BGD,South Asia,BDT,0.806,73.85,High,True
+2024-11-01,2024,11,Bangladesh,BGD,South Asia,BDT,0.793,75.22,High,True
+2024-12-01,2024,12,Bangladesh,BGD,South Asia,BDT,0.808,78.32,High,True
+2025-01-01,2025,1,Bangladesh,BGD,South Asia,BDT,0.793,78.26,High,True
+2025-02-01,2025,2,Bangladesh,BGD,South Asia,BDT,0.794,75.04,High,True
+2025-03-01,2025,3,Bangladesh,BGD,South Asia,BDT,0.793,71.18,High,True
+2025-04-01,2025,4,Bangladesh,BGD,South Asia,BDT,0.772,68.93,High,True
+2025-05-01,2025,5,Bangladesh,BGD,South Asia,BDT,0.78,68.11,High,True
+2025-06-01,2025,6,Bangladesh,BGD,South Asia,BDT,0.77,69.63,High,True
+2025-07-01,2025,7,Bangladesh,BGD,South Asia,BDT,0.775,71.19,High,True
+2025-08-01,2025,8,Bangladesh,BGD,South Asia,BDT,0.787,71.81,High,True
+2025-09-01,2025,9,Bangladesh,BGD,South Asia,BDT,0.789,73.22,High,True
+2025-10-01,2025,10,Bangladesh,BGD,South Asia,BDT,0.804,74.05,High,True
+2025-11-01,2025,11,Bangladesh,BGD,South Asia,BDT,0.799,74.48,High,True
+2025-12-01,2025,12,Bangladesh,BGD,South Asia,BDT,0.82,73.87,High,True
+2026-01-01,2026,1,Bangladesh,BGD,South Asia,BDT,0.786,72.62,High,True
+2026-02-01,2026,2,Bangladesh,BGD,South Asia,BDT,0.786,72.51,High,True
+2026-03-01,2026,3,Bangladesh,BGD,South Asia,BDT,0.774,72.61,High,True
+2020-01-01,2020,1,Sri Lanka,LKA,South Asia,LKR,0.54,57.29,High,True
+2020-02-01,2020,2,Sri Lanka,LKA,South Asia,LKR,0.491,44.76,High,True
+2020-03-01,2020,3,Sri Lanka,LKA,South Asia,LKR,0.414,32.92,High,True
+2020-04-01,2020,4,Sri Lanka,LKA,South Asia,LKR,0.415,30.84,High,True
+2020-05-01,2020,5,Sri Lanka,LKA,South Asia,LKR,0.459,37.85,High,True
+2020-06-01,2020,6,Sri Lanka,LKA,South Asia,LKR,0.467,42.24,High,True
+2020-07-01,2020,7,Sri Lanka,LKA,South Asia,LKR,0.463,42.5,High,True
+2020-08-01,2020,8,Sri Lanka,LKA,South Asia,LKR,0.482,41.8,High,True
+2020-09-01,2020,9,Sri Lanka,LKA,South Asia,LKR,0.467,41.4,High,True
+2020-10-01,2020,10,Sri Lanka,LKA,South Asia,LKR,0.483,44.0,High,True
+2020-11-01,2020,11,Sri Lanka,LKA,South Asia,LKR,0.513,47.8,High,True
+2020-12-01,2020,12,Sri Lanka,LKA,South Asia,LKR,0.537,53.06,High,True
+2021-01-01,2021,1,Sri Lanka,LKA,South Asia,LKR,0.542,58.7,High,True
+2021-02-01,2021,2,Sri Lanka,LKA,South Asia,LKR,0.566,64.41,High,True
+2021-03-01,2021,3,Sri Lanka,LKA,South Asia,LKR,0.589,66.8,High,True
+2021-04-01,2021,4,Sri Lanka,LKA,South Asia,LKR,0.587,67.58,High,True
+2021-05-01,2021,5,Sri Lanka,LKA,South Asia,LKR,0.579,71.65,High,True
+2021-06-01,2021,6,Sri Lanka,LKA,South Asia,LKR,0.639,74.18,High,True
+2021-07-01,2021,7,Sri Lanka,LKA,South Asia,LKR,0.623,74.83,High,True
+2021-08-01,2021,8,Sri Lanka,LKA,South Asia,LKR,0.64,76.07,High,True
+2021-09-01,2021,9,Sri Lanka,LKA,South Asia,LKR,0.626,79.3,High,True
+2021-10-01,2021,10,Sri Lanka,LKA,South Asia,LKR,0.676,82.1,High,True
+2021-11-01,2021,11,Sri Lanka,LKA,South Asia,LKR,0.628,77.71,High,True
+2021-12-01,2021,12,Sri Lanka,LKA,South Asia,LKR,0.643,79.4,High,True
+2022-01-01,2022,1,Sri Lanka,LKA,South Asia,LKR,0.635,89.91,High,True
+2022-02-01,2022,2,Sri Lanka,LKA,South Asia,LKR,0.698,105.65,High,True
+2022-03-01,2022,3,Sri Lanka,LKA,South Asia,LKR,0.719,113.12,High,True
+2022-04-01,2022,4,Sri Lanka,LKA,South Asia,LKR,0.711,110.3,High,True
+2022-05-01,2022,5,Sri Lanka,LKA,South Asia,LKR,0.73,113.65,High,True
+2022-06-01,2022,6,Sri Lanka,LKA,South Asia,LKR,0.714,110.13,High,True
+2022-07-01,2022,7,Sri Lanka,LKA,South Asia,LKR,0.704,101.45,High,True
+2022-08-01,2022,8,Sri Lanka,LKA,South Asia,LKR,0.662,94.44,High,True
+2022-09-01,2022,9,Sri Lanka,LKA,South Asia,LKR,0.643,90.57,High,True
+2022-10-01,2022,10,Sri Lanka,LKA,South Asia,LKR,0.652,88.6,High,True
+2022-11-01,2022,11,Sri Lanka,LKA,South Asia,LKR,0.649,84.09,High,True
+2022-12-01,2022,12,Sri Lanka,LKA,South Asia,LKR,0.652,81.94,High,True
+2023-01-01,2023,1,Sri Lanka,LKA,South Asia,LKR,0.65,83.22,High,True
+2023-02-01,2023,2,Sri Lanka,LKA,South Asia,LKR,0.608,82.29,High,True
+2023-03-01,2023,3,Sri Lanka,LKA,South Asia,LKR,0.631,78.95,High,True
+2023-04-01,2023,4,Sri Lanka,LKA,South Asia,LKR,0.641,76.73,High,True
+2023-05-01,2023,5,Sri Lanka,LKA,South Asia,LKR,0.617,75.8,High,True
+2023-06-01,2023,6,Sri Lanka,LKA,South Asia,LKR,0.615,78.09,High,True
+2023-07-01,2023,7,Sri Lanka,LKA,South Asia,LKR,0.642,83.05,High,True
+2023-08-01,2023,8,Sri Lanka,LKA,South Asia,LKR,0.648,89.47,High,True
+2023-09-01,2023,9,Sri Lanka,LKA,South Asia,LKR,0.668,90.72,High,True
+2023-10-01,2023,10,Sri Lanka,LKA,South Asia,LKR,0.643,85.31,High,True
+2023-11-01,2023,11,Sri Lanka,LKA,South Asia,LKR,0.651,80.58,High,True
+2023-12-01,2023,12,Sri Lanka,LKA,South Asia,LKR,0.633,78.95,High,True
+2024-01-01,2024,1,Sri Lanka,LKA,South Asia,LKR,0.619,80.62,High,True
+2024-02-01,2024,2,Sri Lanka,LKA,South Asia,LKR,0.648,83.91,High,True
+2024-03-01,2024,3,Sri Lanka,LKA,South Asia,LKR,0.662,87.13,High,True
+2024-04-01,2024,4,Sri Lanka,LKA,South Asia,LKR,0.639,86.69,High,True
+2024-05-01,2024,5,Sri Lanka,LKA,South Asia,LKR,0.633,83.99,High,True
+2024-06-01,2024,6,Sri Lanka,LKA,South Asia,LKR,0.608,85.16,High,True
+2024-07-01,2024,7,Sri Lanka,LKA,South Asia,LKR,0.648,82.04,High,True
+2024-08-01,2024,8,Sri Lanka,LKA,South Asia,LKR,0.615,78.41,High,True
+2024-09-01,2024,9,Sri Lanka,LKA,South Asia,LKR,0.586,76.27,High,True
+2024-10-01,2024,10,Sri Lanka,LKA,South Asia,LKR,0.584,73.85,High,True
+2024-11-01,2024,11,Sri Lanka,LKA,South Asia,LKR,0.611,75.22,High,True
+2024-12-01,2024,12,Sri Lanka,LKA,South Asia,LKR,0.635,78.32,High,True
+2025-01-01,2025,1,Sri Lanka,LKA,South Asia,LKR,0.622,78.26,High,True
+2025-02-01,2025,2,Sri Lanka,LKA,South Asia,LKR,0.621,75.04,High,True
+2025-03-01,2025,3,Sri Lanka,LKA,South Asia,LKR,0.587,71.18,High,True
+2025-04-01,2025,4,Sri Lanka,LKA,South Asia,LKR,0.577,68.93,High,True
+2025-05-01,2025,5,Sri Lanka,LKA,South Asia,LKR,0.608,68.11,High,True
+2025-06-01,2025,6,Sri Lanka,LKA,South Asia,LKR,0.606,69.63,High,True
+2025-07-01,2025,7,Sri Lanka,LKA,South Asia,LKR,0.603,71.19,High,True
+2025-08-01,2025,8,Sri Lanka,LKA,South Asia,LKR,0.624,71.81,High,True
+2025-09-01,2025,9,Sri Lanka,LKA,South Asia,LKR,0.595,73.22,High,True
+2025-10-01,2025,10,Sri Lanka,LKA,South Asia,LKR,0.605,74.05,High,True
+2025-11-01,2025,11,Sri Lanka,LKA,South Asia,LKR,0.628,74.48,High,True
+2025-12-01,2025,12,Sri Lanka,LKA,South Asia,LKR,0.639,73.87,High,True
+2026-01-01,2026,1,Sri Lanka,LKA,South Asia,LKR,0.608,72.62,High,True
+2026-02-01,2026,2,Sri Lanka,LKA,South Asia,LKR,0.632,72.51,High,True
+2026-03-01,2026,3,Sri Lanka,LKA,South Asia,LKR,0.598,72.61,High,True
+2020-01-01,2020,1,China,CHN,Asia Pacific,CNY,0.887,57.29,High,False
+2020-02-01,2020,2,China,CHN,Asia Pacific,CNY,0.783,44.76,High,False
+2020-03-01,2020,3,China,CHN,Asia Pacific,CNY,0.671,32.92,High,False
+2020-04-01,2020,4,China,CHN,Asia Pacific,CNY,0.682,30.84,High,False
+2020-05-01,2020,5,China,CHN,Asia Pacific,CNY,0.746,37.85,High,False
+2020-06-01,2020,6,China,CHN,Asia Pacific,CNY,0.764,42.24,High,False
+2020-07-01,2020,7,China,CHN,Asia Pacific,CNY,0.767,42.5,High,False
+2020-08-01,2020,8,China,CHN,Asia Pacific,CNY,0.784,41.8,High,False
+2020-09-01,2020,9,China,CHN,Asia Pacific,CNY,0.741,41.4,High,False
+2020-10-01,2020,10,China,CHN,Asia Pacific,CNY,0.757,44.0,High,False
+2020-11-01,2020,11,China,CHN,Asia Pacific,CNY,0.799,47.8,High,False
+2020-12-01,2020,12,China,CHN,Asia Pacific,CNY,0.832,53.06,High,False
+2021-01-01,2021,1,China,CHN,Asia Pacific,CNY,0.913,58.7,High,False
+2021-02-01,2021,2,China,CHN,Asia Pacific,CNY,0.942,64.41,High,False
+2021-03-01,2021,3,China,CHN,Asia Pacific,CNY,0.942,66.8,High,False
+2021-04-01,2021,4,China,CHN,Asia Pacific,CNY,0.952,67.58,High,False
+2021-05-01,2021,5,China,CHN,Asia Pacific,CNY,1.036,71.65,High,False
+2021-06-01,2021,6,China,CHN,Asia Pacific,CNY,1.003,74.18,High,False
+2021-07-01,2021,7,China,CHN,Asia Pacific,CNY,1.006,74.83,High,False
+2021-08-01,2021,8,China,CHN,Asia Pacific,CNY,1.031,76.07,High,False
+2021-09-01,2021,9,China,CHN,Asia Pacific,CNY,1.061,79.3,High,False
+2021-10-01,2021,10,China,CHN,Asia Pacific,CNY,1.077,82.1,High,False
+2021-11-01,2021,11,China,CHN,Asia Pacific,CNY,1.026,77.71,High,False
+2021-12-01,2021,12,China,CHN,Asia Pacific,CNY,1.035,79.4,High,False
+2022-01-01,2022,1,China,CHN,Asia Pacific,CNY,1.142,89.91,High,False
+2022-02-01,2022,2,China,CHN,Asia Pacific,CNY,1.254,105.65,High,False
+2022-03-01,2022,3,China,CHN,Asia Pacific,CNY,1.287,113.12,High,False
+2022-04-01,2022,4,China,CHN,Asia Pacific,CNY,1.308,110.3,High,False
+2022-05-01,2022,5,China,CHN,Asia Pacific,CNY,1.328,113.65,High,False
+2022-06-01,2022,6,China,CHN,Asia Pacific,CNY,1.285,110.13,High,False
+2022-07-01,2022,7,China,CHN,Asia Pacific,CNY,1.218,101.45,High,False
+2022-08-01,2022,8,China,CHN,Asia Pacific,CNY,1.172,94.44,High,False
+2022-09-01,2022,9,China,CHN,Asia Pacific,CNY,1.128,90.57,High,False
+2022-10-01,2022,10,China,CHN,Asia Pacific,CNY,1.103,88.6,High,False
+2022-11-01,2022,11,China,CHN,Asia Pacific,CNY,1.093,84.09,High,False
+2022-12-01,2022,12,China,CHN,Asia Pacific,CNY,1.05,81.94,High,False
+2023-01-01,2023,1,China,CHN,Asia Pacific,CNY,1.088,83.22,High,False
+2023-02-01,2023,2,China,CHN,Asia Pacific,CNY,1.053,82.29,High,False
+2023-03-01,2023,3,China,CHN,Asia Pacific,CNY,1.047,78.95,High,False
+2023-04-01,2023,4,China,CHN,Asia Pacific,CNY,1.03,76.73,High,False
+2023-05-01,2023,5,China,CHN,Asia Pacific,CNY,1.051,75.8,High,False
+2023-06-01,2023,6,China,CHN,Asia Pacific,CNY,1.026,78.09,High,False
+2023-07-01,2023,7,China,CHN,Asia Pacific,CNY,1.059,83.05,High,False
+2023-08-01,2023,8,China,CHN,Asia Pacific,CNY,1.12,89.47,High,False
+2023-09-01,2023,9,China,CHN,Asia Pacific,CNY,1.123,90.72,High,False
+2023-10-01,2023,10,China,CHN,Asia Pacific,CNY,1.089,85.31,High,False
+2023-11-01,2023,11,China,CHN,Asia Pacific,CNY,1.068,80.58,High,False
+2023-12-01,2023,12,China,CHN,Asia Pacific,CNY,1.06,78.95,High,False
+2024-01-01,2024,1,China,CHN,Asia Pacific,CNY,1.087,80.62,High,False
+2024-02-01,2024,2,China,CHN,Asia Pacific,CNY,1.076,83.91,High,False
+2024-03-01,2024,3,China,CHN,Asia Pacific,CNY,1.151,87.13,High,False
+2024-04-01,2024,4,China,CHN,Asia Pacific,CNY,1.138,86.69,High,False
+2024-05-01,2024,5,China,CHN,Asia Pacific,CNY,1.085,83.99,High,False
+2024-06-01,2024,6,China,CHN,Asia Pacific,CNY,1.062,85.16,High,False
+2024-07-01,2024,7,China,CHN,Asia Pacific,CNY,1.071,82.04,High,False
+2024-08-01,2024,8,China,CHN,Asia Pacific,CNY,1.046,78.41,High,False
+2024-09-01,2024,9,China,CHN,Asia Pacific,CNY,0.994,76.27,High,False
+2024-10-01,2024,10,China,CHN,Asia Pacific,CNY,1.011,73.85,High,False
+2024-11-01,2024,11,China,CHN,Asia Pacific,CNY,1.017,75.22,High,False
+2024-12-01,2024,12,China,CHN,Asia Pacific,CNY,1.032,78.32,High,False
+2025-01-01,2025,1,China,CHN,Asia Pacific,CNY,1.053,78.26,High,False
+2025-02-01,2025,2,China,CHN,Asia Pacific,CNY,1.034,75.04,High,False
+2025-03-01,2025,3,China,CHN,Asia Pacific,CNY,0.982,71.18,High,False
+2025-04-01,2025,4,China,CHN,Asia Pacific,CNY,0.975,68.93,High,False
+2025-05-01,2025,5,China,CHN,Asia Pacific,CNY,0.956,68.11,High,False
+2025-06-01,2025,6,China,CHN,Asia Pacific,CNY,0.965,69.63,High,False
+2025-07-01,2025,7,China,CHN,Asia Pacific,CNY,0.99,71.19,High,False
+2025-08-01,2025,8,China,CHN,Asia Pacific,CNY,1.002,71.81,High,False
+2025-09-01,2025,9,China,CHN,Asia Pacific,CNY,0.996,73.22,High,False
+2025-10-01,2025,10,China,CHN,Asia Pacific,CNY,0.978,74.05,High,False
+2025-11-01,2025,11,China,CHN,Asia Pacific,CNY,1.023,74.48,High,False
+2025-12-01,2025,12,China,CHN,Asia Pacific,CNY,0.986,73.87,High,False
+2026-01-01,2026,1,China,CHN,Asia Pacific,CNY,1.002,72.62,High,False
+2026-02-01,2026,2,China,CHN,Asia Pacific,CNY,1.026,72.51,High,False
+2026-03-01,2026,3,China,CHN,Asia Pacific,CNY,1.0,72.61,High,False
+2020-01-01,2020,1,Japan,JPN,Asia Pacific,JPY,0.972,57.29,High,False
+2020-02-01,2020,2,Japan,JPN,Asia Pacific,JPY,0.86,44.76,High,False
+2020-03-01,2020,3,Japan,JPN,Asia Pacific,JPY,0.797,32.92,High,False
+2020-04-01,2020,4,Japan,JPN,Asia Pacific,JPY,0.761,30.84,High,False
+2020-05-01,2020,5,Japan,JPN,Asia Pacific,JPY,0.83,37.85,High,False
+2020-06-01,2020,6,Japan,JPN,Asia Pacific,JPY,0.874,42.24,High,False
+2020-07-01,2020,7,Japan,JPN,Asia Pacific,JPY,0.862,42.5,High,False
+2020-08-01,2020,8,Japan,JPN,Asia Pacific,JPY,0.852,41.8,High,False
+2020-09-01,2020,9,Japan,JPN,Asia Pacific,JPY,0.839,41.4,High,False
+2020-10-01,2020,10,Japan,JPN,Asia Pacific,JPY,0.829,44.0,High,False
+2020-11-01,2020,11,Japan,JPN,Asia Pacific,JPY,0.885,47.8,High,False
+2020-12-01,2020,12,Japan,JPN,Asia Pacific,JPY,0.953,53.06,High,False
+2021-01-01,2021,1,Japan,JPN,Asia Pacific,JPY,1.0,58.7,High,False
+2021-02-01,2021,2,Japan,JPN,Asia Pacific,JPY,1.058,64.41,High,False
+2021-03-01,2021,3,Japan,JPN,Asia Pacific,JPY,1.07,66.8,High,False
+2021-04-01,2021,4,Japan,JPN,Asia Pacific,JPY,1.081,67.58,High,False
+2021-05-01,2021,5,Japan,JPN,Asia Pacific,JPY,1.126,71.65,High,False
+2021-06-01,2021,6,Japan,JPN,Asia Pacific,JPY,1.123,74.18,High,False
+2021-07-01,2021,7,Japan,JPN,Asia Pacific,JPY,1.137,74.83,High,False
+2021-08-01,2021,8,Japan,JPN,Asia Pacific,JPY,1.128,76.07,High,False
+2021-09-01,2021,9,Japan,JPN,Asia Pacific,JPY,1.195,79.3,High,False
+2021-10-01,2021,10,Japan,JPN,Asia Pacific,JPY,1.205,82.1,High,False
+2021-11-01,2021,11,Japan,JPN,Asia Pacific,JPY,1.174,77.71,High,False
+2021-12-01,2021,12,Japan,JPN,Asia Pacific,JPY,1.204,79.4,High,False
+2022-01-01,2022,1,Japan,JPN,Asia Pacific,JPY,1.288,89.91,High,False
+2022-02-01,2022,2,Japan,JPN,Asia Pacific,JPY,1.407,105.65,High,False
+2022-03-01,2022,3,Japan,JPN,Asia Pacific,JPY,1.485,113.12,High,False
+2022-04-01,2022,4,Japan,JPN,Asia Pacific,JPY,1.427,110.3,High,False
+2022-05-01,2022,5,Japan,JPN,Asia Pacific,JPY,1.484,113.65,High,False
+2022-06-01,2022,6,Japan,JPN,Asia Pacific,JPY,1.449,110.13,High,False
+2022-07-01,2022,7,Japan,JPN,Asia Pacific,JPY,1.348,101.45,High,False
+2022-08-01,2022,8,Japan,JPN,Asia Pacific,JPY,1.331,94.44,High,False
+2022-09-01,2022,9,Japan,JPN,Asia Pacific,JPY,1.267,90.57,High,False
+2022-10-01,2022,10,Japan,JPN,Asia Pacific,JPY,1.271,88.6,High,False
+2022-11-01,2022,11,Japan,JPN,Asia Pacific,JPY,1.215,84.09,High,False
+2022-12-01,2022,12,Japan,JPN,Asia Pacific,JPY,1.218,81.94,High,False
+2023-01-01,2023,1,Japan,JPN,Asia Pacific,JPY,1.234,83.22,High,False
+2023-02-01,2023,2,Japan,JPN,Asia Pacific,JPY,1.194,82.29,High,False
+2023-03-01,2023,3,Japan,JPN,Asia Pacific,JPY,1.154,78.95,High,False
+2023-04-01,2023,4,Japan,JPN,Asia Pacific,JPY,1.156,76.73,High,False
+2023-05-01,2023,5,Japan,JPN,Asia Pacific,JPY,1.163,75.8,High,False
+2023-06-01,2023,6,Japan,JPN,Asia Pacific,JPY,1.164,78.09,High,False
+2023-07-01,2023,7,Japan,JPN,Asia Pacific,JPY,1.204,83.05,High,False
+2023-08-01,2023,8,Japan,JPN,Asia Pacific,JPY,1.276,89.47,High,False
+2023-09-01,2023,9,Japan,JPN,Asia Pacific,JPY,1.238,90.72,High,False
+2023-10-01,2023,10,Japan,JPN,Asia Pacific,JPY,1.222,85.31,High,False
+2023-11-01,2023,11,Japan,JPN,Asia Pacific,JPY,1.171,80.58,High,False
+2023-12-01,2023,12,Japan,JPN,Asia Pacific,JPY,1.182,78.95,High,False
+2024-01-01,2024,1,Japan,JPN,Asia Pacific,JPY,1.181,80.62,High,False
+2024-02-01,2024,2,Japan,JPN,Asia Pacific,JPY,1.204,83.91,High,False
+2024-03-01,2024,3,Japan,JPN,Asia Pacific,JPY,1.243,87.13,High,False
+2024-04-01,2024,4,Japan,JPN,Asia Pacific,JPY,1.222,86.69,High,False
+2024-05-01,2024,5,Japan,JPN,Asia Pacific,JPY,1.221,83.99,High,False
+2024-06-01,2024,6,Japan,JPN,Asia Pacific,JPY,1.221,85.16,High,False
+2024-07-01,2024,7,Japan,JPN,Asia Pacific,JPY,1.198,82.04,High,False
+2024-08-01,2024,8,Japan,JPN,Asia Pacific,JPY,1.162,78.41,High,False
+2024-09-01,2024,9,Japan,JPN,Asia Pacific,JPY,1.168,76.27,High,False
+2024-10-01,2024,10,Japan,JPN,Asia Pacific,JPY,1.132,73.85,High,False
+2024-11-01,2024,11,Japan,JPN,Asia Pacific,JPY,1.153,75.22,High,False
+2024-12-01,2024,12,Japan,JPN,Asia Pacific,JPY,1.179,78.32,High,False
+2025-01-01,2025,1,Japan,JPN,Asia Pacific,JPY,1.159,78.26,High,False
+2025-02-01,2025,2,Japan,JPN,Asia Pacific,JPY,1.152,75.04,High,False
+2025-03-01,2025,3,Japan,JPN,Asia Pacific,JPY,1.115,71.18,High,False
+2025-04-01,2025,4,Japan,JPN,Asia Pacific,JPY,1.095,68.93,High,False
+2025-05-01,2025,5,Japan,JPN,Asia Pacific,JPY,1.078,68.11,High,False
+2025-06-01,2025,6,Japan,JPN,Asia Pacific,JPY,1.09,69.63,High,False
+2025-07-01,2025,7,Japan,JPN,Asia Pacific,JPY,1.122,71.19,High,False
+2025-08-01,2025,8,Japan,JPN,Asia Pacific,JPY,1.148,71.81,High,False
+2025-09-01,2025,9,Japan,JPN,Asia Pacific,JPY,1.115,73.22,High,False
+2025-10-01,2025,10,Japan,JPN,Asia Pacific,JPY,1.143,74.05,High,False
+2025-11-01,2025,11,Japan,JPN,Asia Pacific,JPY,1.133,74.48,High,False
+2025-12-01,2025,12,Japan,JPN,Asia Pacific,JPY,1.145,73.87,High,False
+2026-01-01,2026,1,Japan,JPN,Asia Pacific,JPY,1.129,72.62,High,False
+2026-02-01,2026,2,Japan,JPN,Asia Pacific,JPY,1.138,72.51,High,False
+2026-03-01,2026,3,Japan,JPN,Asia Pacific,JPY,1.081,72.61,High,False
+2020-01-01,2020,1,South Korea,KOR,Asia Pacific,KRW,1.071,57.29,High,False
+2020-02-01,2020,2,South Korea,KOR,Asia Pacific,KRW,0.947,44.76,High,False
+2020-03-01,2020,3,South Korea,KOR,Asia Pacific,KRW,0.849,32.92,High,False
+2020-04-01,2020,4,South Korea,KOR,Asia Pacific,KRW,0.82,30.84,High,False
+2020-05-01,2020,5,South Korea,KOR,Asia Pacific,KRW,0.887,37.85,High,False
+2020-06-01,2020,6,South Korea,KOR,Asia Pacific,KRW,0.948,42.24,High,False
+2020-07-01,2020,7,South Korea,KOR,Asia Pacific,KRW,0.969,42.5,High,False
+2020-08-01,2020,8,South Korea,KOR,Asia Pacific,KRW,0.892,41.8,High,False
+2020-09-01,2020,9,South Korea,KOR,Asia Pacific,KRW,0.926,41.4,High,False
+2020-10-01,2020,10,South Korea,KOR,Asia Pacific,KRW,0.96,44.0,High,False
+2020-11-01,2020,11,South Korea,KOR,Asia Pacific,KRW,0.991,47.8,High,False
+2020-12-01,2020,12,South Korea,KOR,Asia Pacific,KRW,1.035,53.06,High,False
+2021-01-01,2021,1,South Korea,KOR,Asia Pacific,KRW,1.073,58.7,High,False
+2021-02-01,2021,2,South Korea,KOR,Asia Pacific,KRW,1.133,64.41,High,False
+2021-03-01,2021,3,South Korea,KOR,Asia Pacific,KRW,1.181,66.8,High,False
+2021-04-01,2021,4,South Korea,KOR,Asia Pacific,KRW,1.193,67.58,High,False
+2021-05-01,2021,5,South Korea,KOR,Asia Pacific,KRW,1.217,71.65,High,False
+2021-06-01,2021,6,South Korea,KOR,Asia Pacific,KRW,1.227,74.18,High,False
+2021-07-01,2021,7,South Korea,KOR,Asia Pacific,KRW,1.247,74.83,High,False
+2021-08-01,2021,8,South Korea,KOR,Asia Pacific,KRW,1.254,76.07,High,False
+2021-09-01,2021,9,South Korea,KOR,Asia Pacific,KRW,1.296,79.3,High,False
+2021-10-01,2021,10,South Korea,KOR,Asia Pacific,KRW,1.316,82.1,High,False
+2021-11-01,2021,11,South Korea,KOR,Asia Pacific,KRW,1.263,77.71,High,False
+2021-12-01,2021,12,South Korea,KOR,Asia Pacific,KRW,1.291,79.4,High,False
+2022-01-01,2022,1,South Korea,KOR,Asia Pacific,KRW,1.37,89.91,High,False
+2022-02-01,2022,2,South Korea,KOR,Asia Pacific,KRW,1.548,105.65,High,False
+2022-03-01,2022,3,South Korea,KOR,Asia Pacific,KRW,1.624,113.12,High,False
+2022-04-01,2022,4,South Korea,KOR,Asia Pacific,KRW,1.562,110.3,High,False
+2022-05-01,2022,5,South Korea,KOR,Asia Pacific,KRW,1.618,113.65,High,False
+2022-06-01,2022,6,South Korea,KOR,Asia Pacific,KRW,1.564,110.13,High,False
+2022-07-01,2022,7,South Korea,KOR,Asia Pacific,KRW,1.513,101.45,High,False
+2022-08-01,2022,8,South Korea,KOR,Asia Pacific,KRW,1.444,94.44,High,False
+2022-09-01,2022,9,South Korea,KOR,Asia Pacific,KRW,1.39,90.57,High,False
+2022-10-01,2022,10,South Korea,KOR,Asia Pacific,KRW,1.39,88.6,High,False
+2022-11-01,2022,11,South Korea,KOR,Asia Pacific,KRW,1.326,84.09,High,False
+2022-12-01,2022,12,South Korea,KOR,Asia Pacific,KRW,1.303,81.94,High,False
+2023-01-01,2023,1,South Korea,KOR,Asia Pacific,KRW,1.316,83.22,High,False
+2023-02-01,2023,2,South Korea,KOR,Asia Pacific,KRW,1.314,82.29,High,False
+2023-03-01,2023,3,South Korea,KOR,Asia Pacific,KRW,1.28,78.95,High,False
+2023-04-01,2023,4,South Korea,KOR,Asia Pacific,KRW,1.266,76.73,High,False
+2023-05-01,2023,5,South Korea,KOR,Asia Pacific,KRW,1.245,75.8,High,False
+2023-06-01,2023,6,South Korea,KOR,Asia Pacific,KRW,1.288,78.09,High,False
+2023-07-01,2023,7,South Korea,KOR,Asia Pacific,KRW,1.338,83.05,High,False
+2023-08-01,2023,8,South Korea,KOR,Asia Pacific,KRW,1.376,89.47,High,False
+2023-09-01,2023,9,South Korea,KOR,Asia Pacific,KRW,1.374,90.72,High,False
+2023-10-01,2023,10,South Korea,KOR,Asia Pacific,KRW,1.355,85.31,High,False
+2023-11-01,2023,11,South Korea,KOR,Asia Pacific,KRW,1.317,80.58,High,False
+2023-12-01,2023,12,South Korea,KOR,Asia Pacific,KRW,1.282,78.95,High,False
+2024-01-01,2024,1,South Korea,KOR,Asia Pacific,KRW,1.281,80.62,High,False
+2024-02-01,2024,2,South Korea,KOR,Asia Pacific,KRW,1.335,83.91,High,False
+2024-03-01,2024,3,South Korea,KOR,Asia Pacific,KRW,1.384,87.13,High,False
+2024-04-01,2024,4,South Korea,KOR,Asia Pacific,KRW,1.329,86.69,High,False
+2024-05-01,2024,5,South Korea,KOR,Asia Pacific,KRW,1.339,83.99,High,False
+2024-06-01,2024,6,South Korea,KOR,Asia Pacific,KRW,1.338,85.16,High,False
+2024-07-01,2024,7,South Korea,KOR,Asia Pacific,KRW,1.301,82.04,High,False
+2024-08-01,2024,8,South Korea,KOR,Asia Pacific,KRW,1.287,78.41,High,False
+2024-09-01,2024,9,South Korea,KOR,Asia Pacific,KRW,1.24,76.27,High,False
+2024-10-01,2024,10,South Korea,KOR,Asia Pacific,KRW,1.241,73.85,High,False
+2024-11-01,2024,11,South Korea,KOR,Asia Pacific,KRW,1.269,75.22,High,False
+2024-12-01,2024,12,South Korea,KOR,Asia Pacific,KRW,1.281,78.32,High,False
+2025-01-01,2025,1,South Korea,KOR,Asia Pacific,KRW,1.265,78.26,High,False
+2025-02-01,2025,2,South Korea,KOR,Asia Pacific,KRW,1.221,75.04,High,False
+2025-03-01,2025,3,South Korea,KOR,Asia Pacific,KRW,1.192,71.18,High,False
+2025-04-01,2025,4,South Korea,KOR,Asia Pacific,KRW,1.162,68.93,High,False
+2025-05-01,2025,5,South Korea,KOR,Asia Pacific,KRW,1.206,68.11,High,False
+2025-06-01,2025,6,South Korea,KOR,Asia Pacific,KRW,1.193,69.63,High,False
+2025-07-01,2025,7,South Korea,KOR,Asia Pacific,KRW,1.196,71.19,High,False
+2025-08-01,2025,8,South Korea,KOR,Asia Pacific,KRW,1.198,71.81,High,False
+2025-09-01,2025,9,South Korea,KOR,Asia Pacific,KRW,1.214,73.22,High,False
+2025-10-01,2025,10,South Korea,KOR,Asia Pacific,KRW,1.233,74.05,High,False
+2025-11-01,2025,11,South Korea,KOR,Asia Pacific,KRW,1.223,74.48,High,False
+2025-12-01,2025,12,South Korea,KOR,Asia Pacific,KRW,1.262,73.87,High,False
+2026-01-01,2026,1,South Korea,KOR,Asia Pacific,KRW,1.214,72.62,High,False
+2026-02-01,2026,2,South Korea,KOR,Asia Pacific,KRW,1.212,72.51,High,False
+2026-03-01,2026,3,South Korea,KOR,Asia Pacific,KRW,1.229,72.61,High,False
+2020-01-01,2020,1,Germany,DEU,Europe,EUR,1.174,57.29,High,False
+2020-02-01,2020,2,Germany,DEU,Europe,EUR,1.046,44.76,High,False
+2020-03-01,2020,3,Germany,DEU,Europe,EUR,0.9,32.92,High,False
+2020-04-01,2020,4,Germany,DEU,Europe,EUR,0.89,30.84,High,False
+2020-05-01,2020,5,Germany,DEU,Europe,EUR,0.959,37.85,High,False
+2020-06-01,2020,6,Germany,DEU,Europe,EUR,1.009,42.24,High,False
+2020-07-01,2020,7,Germany,DEU,Europe,EUR,1.007,42.5,High,False
+2020-08-01,2020,8,Germany,DEU,Europe,EUR,0.982,41.8,High,False
+2020-09-01,2020,9,Germany,DEU,Europe,EUR,0.973,41.4,High,False
+2020-10-01,2020,10,Germany,DEU,Europe,EUR,1.021,44.0,High,False
+2020-11-01,2020,11,Germany,DEU,Europe,EUR,1.039,47.8,High,False
+2020-12-01,2020,12,Germany,DEU,Europe,EUR,1.13,53.06,High,False
+2021-01-01,2021,1,Germany,DEU,Europe,EUR,1.167,58.7,High,False
+2021-02-01,2021,2,Germany,DEU,Europe,EUR,1.208,64.41,High,False
+2021-03-01,2021,3,Germany,DEU,Europe,EUR,1.243,66.8,High,False
+2021-04-01,2021,4,Germany,DEU,Europe,EUR,1.248,67.58,High,False
+2021-05-01,2021,5,Germany,DEU,Europe,EUR,1.295,71.65,High,False
+2021-06-01,2021,6,Germany,DEU,Europe,EUR,1.336,74.18,High,False
+2021-07-01,2021,7,Germany,DEU,Europe,EUR,1.307,74.83,High,False
+2021-08-01,2021,8,Germany,DEU,Europe,EUR,1.313,76.07,High,False
+2021-09-01,2021,9,Germany,DEU,Europe,EUR,1.379,79.3,High,False
+2021-10-01,2021,10,Germany,DEU,Europe,EUR,1.399,82.1,High,False
+2021-11-01,2021,11,Germany,DEU,Europe,EUR,1.36,77.71,High,False
+2021-12-01,2021,12,Germany,DEU,Europe,EUR,1.381,79.4,High,False
+2022-01-01,2022,1,Germany,DEU,Europe,EUR,1.478,89.91,High,False
+2022-02-01,2022,2,Germany,DEU,Europe,EUR,1.65,105.65,High,False
+2022-03-01,2022,3,Germany,DEU,Europe,EUR,1.7,113.12,High,False
+2022-04-01,2022,4,Germany,DEU,Europe,EUR,1.686,110.3,High,False
+2022-05-01,2022,5,Germany,DEU,Europe,EUR,1.706,113.65,High,False
+2022-06-01,2022,6,Germany,DEU,Europe,EUR,1.667,110.13,High,False
+2022-07-01,2022,7,Germany,DEU,Europe,EUR,1.605,101.45,High,False
+2022-08-01,2022,8,Germany,DEU,Europe,EUR,1.534,94.44,High,False
+2022-09-01,2022,9,Germany,DEU,Europe,EUR,1.458,90.57,High,False
+2022-10-01,2022,10,Germany,DEU,Europe,EUR,1.45,88.6,High,False
+2022-11-01,2022,11,Germany,DEU,Europe,EUR,1.426,84.09,High,False
+2022-12-01,2022,12,Germany,DEU,Europe,EUR,1.416,81.94,High,False
+2023-01-01,2023,1,Germany,DEU,Europe,EUR,1.403,83.22,High,False
+2023-02-01,2023,2,Germany,DEU,Europe,EUR,1.401,82.29,High,False
+2023-03-01,2023,3,Germany,DEU,Europe,EUR,1.349,78.95,High,False
+2023-04-01,2023,4,Germany,DEU,Europe,EUR,1.385,76.73,High,False
+2023-05-01,2023,5,Germany,DEU,Europe,EUR,1.345,75.8,High,False
+2023-06-01,2023,6,Germany,DEU,Europe,EUR,1.375,78.09,High,False
+2023-07-01,2023,7,Germany,DEU,Europe,EUR,1.421,83.05,High,False
+2023-08-01,2023,8,Germany,DEU,Europe,EUR,1.49,89.47,High,False
+2023-09-01,2023,9,Germany,DEU,Europe,EUR,1.497,90.72,High,False
+2023-10-01,2023,10,Germany,DEU,Europe,EUR,1.429,85.31,High,False
+2023-11-01,2023,11,Germany,DEU,Europe,EUR,1.398,80.58,High,False
+2023-12-01,2023,12,Germany,DEU,Europe,EUR,1.371,78.95,High,False
+2024-01-01,2024,1,Germany,DEU,Europe,EUR,1.406,80.62,High,False
+2024-02-01,2024,2,Germany,DEU,Europe,EUR,1.409,83.91,High,False
+2024-03-01,2024,3,Germany,DEU,Europe,EUR,1.444,87.13,High,False
+2024-04-01,2024,4,Germany,DEU,Europe,EUR,1.458,86.69,High,False
+2024-05-01,2024,5,Germany,DEU,Europe,EUR,1.44,83.99,High,False
+2024-06-01,2024,6,Germany,DEU,Europe,EUR,1.435,85.16,High,False
+2024-07-01,2024,7,Germany,DEU,Europe,EUR,1.39,82.04,High,False
+2024-08-01,2024,8,Germany,DEU,Europe,EUR,1.363,78.41,High,False
+2024-09-01,2024,9,Germany,DEU,Europe,EUR,1.336,76.27,High,False
+2024-10-01,2024,10,Germany,DEU,Europe,EUR,1.347,73.85,High,False
+2024-11-01,2024,11,Germany,DEU,Europe,EUR,1.346,75.22,High,False
+2024-12-01,2024,12,Germany,DEU,Europe,EUR,1.383,78.32,High,False
+2025-01-01,2025,1,Germany,DEU,Europe,EUR,1.368,78.26,High,False
+2025-02-01,2025,2,Germany,DEU,Europe,EUR,1.322,75.04,High,False
+2025-03-01,2025,3,Germany,DEU,Europe,EUR,1.309,71.18,High,False
+2025-04-01,2025,4,Germany,DEU,Europe,EUR,1.294,68.93,High,False
+2025-05-01,2025,5,Germany,DEU,Europe,EUR,1.27,68.11,High,False
+2025-06-01,2025,6,Germany,DEU,Europe,EUR,1.276,69.63,High,False
+2025-07-01,2025,7,Germany,DEU,Europe,EUR,1.308,71.19,High,False
+2025-08-01,2025,8,Germany,DEU,Europe,EUR,1.293,71.81,High,False
+2025-09-01,2025,9,Germany,DEU,Europe,EUR,1.324,73.22,High,False
+2025-10-01,2025,10,Germany,DEU,Europe,EUR,1.31,74.05,High,False
+2025-11-01,2025,11,Germany,DEU,Europe,EUR,1.31,74.48,High,False
+2025-12-01,2025,12,Germany,DEU,Europe,EUR,1.327,73.87,High,False
+2026-01-01,2026,1,Germany,DEU,Europe,EUR,1.311,72.62,High,False
+2026-02-01,2026,2,Germany,DEU,Europe,EUR,1.334,72.51,High,False
+2026-03-01,2026,3,Germany,DEU,Europe,EUR,1.302,72.61,High,False
+2020-01-01,2020,1,France,FRA,Europe,EUR,1.17,57.29,High,False
+2020-02-01,2020,2,France,FRA,Europe,EUR,1.025,44.76,High,False
+2020-03-01,2020,3,France,FRA,Europe,EUR,0.893,32.92,High,False
+2020-04-01,2020,4,France,FRA,Europe,EUR,0.873,30.84,High,False
+2020-05-01,2020,5,France,FRA,Europe,EUR,0.979,37.85,High,False
+2020-06-01,2020,6,France,FRA,Europe,EUR,0.999,42.24,High,False
+2020-07-01,2020,7,France,FRA,Europe,EUR,1.036,42.5,High,False
+2020-08-01,2020,8,France,FRA,Europe,EUR,1.033,41.8,High,False
+2020-09-01,2020,9,France,FRA,Europe,EUR,1.004,41.4,High,False
+2020-10-01,2020,10,France,FRA,Europe,EUR,1.059,44.0,High,False
+2020-11-01,2020,11,France,FRA,Europe,EUR,1.077,47.8,High,False
+2020-12-01,2020,12,France,FRA,Europe,EUR,1.144,53.06,High,False
+2021-01-01,2021,1,France,FRA,Europe,EUR,1.181,58.7,High,False
+2021-02-01,2021,2,France,FRA,Europe,EUR,1.257,64.41,High,False
+2021-03-01,2021,3,France,FRA,Europe,EUR,1.253,66.8,High,False
+2021-04-01,2021,4,France,FRA,Europe,EUR,1.285,67.58,High,False
+2021-05-01,2021,5,France,FRA,Europe,EUR,1.31,71.65,High,False
+2021-06-01,2021,6,France,FRA,Europe,EUR,1.341,74.18,High,False
+2021-07-01,2021,7,France,FRA,Europe,EUR,1.359,74.83,High,False
+2021-08-01,2021,8,France,FRA,Europe,EUR,1.365,76.07,High,False
+2021-09-01,2021,9,France,FRA,Europe,EUR,1.394,79.3,High,False
+2021-10-01,2021,10,France,FRA,Europe,EUR,1.435,82.1,High,False
+2021-11-01,2021,11,France,FRA,Europe,EUR,1.391,77.71,High,False
+2021-12-01,2021,12,France,FRA,Europe,EUR,1.375,79.4,High,False
+2022-01-01,2022,1,France,FRA,Europe,EUR,1.512,89.91,High,False
+2022-02-01,2022,2,France,FRA,Europe,EUR,1.674,105.65,High,False
+2022-03-01,2022,3,France,FRA,Europe,EUR,1.729,113.12,High,False
+2022-04-01,2022,4,France,FRA,Europe,EUR,1.717,110.3,High,False
+2022-05-01,2022,5,France,FRA,Europe,EUR,1.726,113.65,High,False
+2022-06-01,2022,6,France,FRA,Europe,EUR,1.732,110.13,High,False
+2022-07-01,2022,7,France,FRA,Europe,EUR,1.618,101.45,High,False
+2022-08-01,2022,8,France,FRA,Europe,EUR,1.548,94.44,High,False
+2022-09-01,2022,9,France,FRA,Europe,EUR,1.528,90.57,High,False
+2022-10-01,2022,10,France,FRA,Europe,EUR,1.488,88.6,High,False
+2022-11-01,2022,11,France,FRA,Europe,EUR,1.453,84.09,High,False
+2022-12-01,2022,12,France,FRA,Europe,EUR,1.406,81.94,High,False
+2023-01-01,2023,1,France,FRA,Europe,EUR,1.426,83.22,High,False
+2023-02-01,2023,2,France,FRA,Europe,EUR,1.405,82.29,High,False
+2023-03-01,2023,3,France,FRA,Europe,EUR,1.388,78.95,High,False
+2023-04-01,2023,4,France,FRA,Europe,EUR,1.384,76.73,High,False
+2023-05-01,2023,5,France,FRA,Europe,EUR,1.363,75.8,High,False
+2023-06-01,2023,6,France,FRA,Europe,EUR,1.396,78.09,High,False
+2023-07-01,2023,7,France,FRA,Europe,EUR,1.418,83.05,High,False
+2023-08-01,2023,8,France,FRA,Europe,EUR,1.486,89.47,High,False
+2023-09-01,2023,9,France,FRA,Europe,EUR,1.505,90.72,High,False
+2023-10-01,2023,10,France,FRA,Europe,EUR,1.465,85.31,High,False
+2023-11-01,2023,11,France,FRA,Europe,EUR,1.413,80.58,High,False
+2023-12-01,2023,12,France,FRA,Europe,EUR,1.391,78.95,High,False
+2024-01-01,2024,1,France,FRA,Europe,EUR,1.418,80.62,High,False
+2024-02-01,2024,2,France,FRA,Europe,EUR,1.44,83.91,High,False
+2024-03-01,2024,3,France,FRA,Europe,EUR,1.475,87.13,High,False
+2024-04-01,2024,4,France,FRA,Europe,EUR,1.49,86.69,High,False
+2024-05-01,2024,5,France,FRA,Europe,EUR,1.434,83.99,High,False
+2024-06-01,2024,6,France,FRA,Europe,EUR,1.458,85.16,High,False
+2024-07-01,2024,7,France,FRA,Europe,EUR,1.447,82.04,High,False
+2024-08-01,2024,8,France,FRA,Europe,EUR,1.387,78.41,High,False
+2024-09-01,2024,9,France,FRA,Europe,EUR,1.375,76.27,High,False
+2024-10-01,2024,10,France,FRA,Europe,EUR,1.33,73.85,High,False
+2024-11-01,2024,11,France,FRA,Europe,EUR,1.383,75.22,High,False
+2024-12-01,2024,12,France,FRA,Europe,EUR,1.351,78.32,High,False
+2025-01-01,2025,1,France,FRA,Europe,EUR,1.367,78.26,High,False
+2025-02-01,2025,2,France,FRA,Europe,EUR,1.336,75.04,High,False
+2025-03-01,2025,3,France,FRA,Europe,EUR,1.336,71.18,High,False
+2025-04-01,2025,4,France,FRA,Europe,EUR,1.294,68.93,High,False
+2025-05-01,2025,5,France,FRA,Europe,EUR,1.277,68.11,High,False
+2025-06-01,2025,6,France,FRA,Europe,EUR,1.277,69.63,High,False
+2025-07-01,2025,7,France,FRA,Europe,EUR,1.318,71.19,High,False
+2025-08-01,2025,8,France,FRA,Europe,EUR,1.32,71.81,High,False
+2025-09-01,2025,9,France,FRA,Europe,EUR,1.323,73.22,High,False
+2025-10-01,2025,10,France,FRA,Europe,EUR,1.319,74.05,High,False
+2025-11-01,2025,11,France,FRA,Europe,EUR,1.329,74.48,High,False
+2025-12-01,2025,12,France,FRA,Europe,EUR,1.343,73.87,High,False
+2026-01-01,2026,1,France,FRA,Europe,EUR,1.331,72.62,High,False
+2026-02-01,2026,2,France,FRA,Europe,EUR,1.327,72.51,High,False
+2026-03-01,2026,3,France,FRA,Europe,EUR,1.324,72.61,High,False
+2020-01-01,2020,1,UK,GBR,Europe,GBP,1.099,57.29,High,False
+2020-02-01,2020,2,UK,GBR,Europe,GBP,1.003,44.76,High,False
+2020-03-01,2020,3,UK,GBR,Europe,GBP,0.87,32.92,High,False
+2020-04-01,2020,4,UK,GBR,Europe,GBP,0.866,30.84,High,False
+2020-05-01,2020,5,UK,GBR,Europe,GBP,0.941,37.85,High,False
+2020-06-01,2020,6,UK,GBR,Europe,GBP,0.967,42.24,High,False
+2020-07-01,2020,7,UK,GBR,Europe,GBP,0.965,42.5,High,False
+2020-08-01,2020,8,UK,GBR,Europe,GBP,0.988,41.8,High,False
+2020-09-01,2020,9,UK,GBR,Europe,GBP,0.974,41.4,High,False
+2020-10-01,2020,10,UK,GBR,Europe,GBP,0.985,44.0,High,False
+2020-11-01,2020,11,UK,GBR,Europe,GBP,0.987,47.8,High,False
+2020-12-01,2020,12,UK,GBR,Europe,GBP,1.083,53.06,High,False
+2021-01-01,2021,1,UK,GBR,Europe,GBP,1.149,58.7,High,False
+2021-02-01,2021,2,UK,GBR,Europe,GBP,1.212,64.41,High,False
+2021-03-01,2021,3,UK,GBR,Europe,GBP,1.208,66.8,High,False
+2021-04-01,2021,4,UK,GBR,Europe,GBP,1.217,67.58,High,False
+2021-05-01,2021,5,UK,GBR,Europe,GBP,1.26,71.65,High,False
+2021-06-01,2021,6,UK,GBR,Europe,GBP,1.304,74.18,High,False
+2021-07-01,2021,7,UK,GBR,Europe,GBP,1.28,74.83,High,False
+2021-08-01,2021,8,UK,GBR,Europe,GBP,1.308,76.07,High,False
+2021-09-01,2021,9,UK,GBR,Europe,GBP,1.327,79.3,High,False
+2021-10-01,2021,10,UK,GBR,Europe,GBP,1.373,82.1,High,False
+2021-11-01,2021,11,UK,GBR,Europe,GBP,1.302,77.71,High,False
+2021-12-01,2021,12,UK,GBR,Europe,GBP,1.348,79.4,High,False
+2022-01-01,2022,1,UK,GBR,Europe,GBP,1.438,89.91,High,False
+2022-02-01,2022,2,UK,GBR,Europe,GBP,1.597,105.65,High,False
+2022-03-01,2022,3,UK,GBR,Europe,GBP,1.681,113.12,High,False
+2022-04-01,2022,4,UK,GBR,Europe,GBP,1.663,110.3,High,False
+2022-05-01,2022,5,UK,GBR,Europe,GBP,1.653,113.65,High,False
+2022-06-01,2022,6,UK,GBR,Europe,GBP,1.659,110.13,High,False
+2022-07-01,2022,7,UK,GBR,Europe,GBP,1.567,101.45,High,False
+2022-08-01,2022,8,UK,GBR,Europe,GBP,1.486,94.44,High,False
+2022-09-01,2022,9,UK,GBR,Europe,GBP,1.473,90.57,High,False
+2022-10-01,2022,10,UK,GBR,Europe,GBP,1.435,88.6,High,False
+2022-11-01,2022,11,UK,GBR,Europe,GBP,1.408,84.09,High,False
+2022-12-01,2022,12,UK,GBR,Europe,GBP,1.358,81.94,High,False
+2023-01-01,2023,1,UK,GBR,Europe,GBP,1.367,83.22,High,False
+2023-02-01,2023,2,UK,GBR,Europe,GBP,1.389,82.29,High,False
+2023-03-01,2023,3,UK,GBR,Europe,GBP,1.37,78.95,High,False
+2023-04-01,2023,4,UK,GBR,Europe,GBP,1.326,76.73,High,False
+2023-05-01,2023,5,UK,GBR,Europe,GBP,1.32,75.8,High,False
+2023-06-01,2023,6,UK,GBR,Europe,GBP,1.322,78.09,High,False
+2023-07-01,2023,7,UK,GBR,Europe,GBP,1.358,83.05,High,False
+2023-08-01,2023,8,UK,GBR,Europe,GBP,1.438,89.47,High,False
+2023-09-01,2023,9,UK,GBR,Europe,GBP,1.476,90.72,High,False
+2023-10-01,2023,10,UK,GBR,Europe,GBP,1.372,85.31,High,False
+2023-11-01,2023,11,UK,GBR,Europe,GBP,1.347,80.58,High,False
+2023-12-01,2023,12,UK,GBR,Europe,GBP,1.309,78.95,High,False
+2024-01-01,2024,1,UK,GBR,Europe,GBP,1.356,80.62,High,False
+2024-02-01,2024,2,UK,GBR,Europe,GBP,1.4,83.91,High,False
+2024-03-01,2024,3,UK,GBR,Europe,GBP,1.4,87.13,High,False
+2024-04-01,2024,4,UK,GBR,Europe,GBP,1.408,86.69,High,False
+2024-05-01,2024,5,UK,GBR,Europe,GBP,1.407,83.99,High,False
+2024-06-01,2024,6,UK,GBR,Europe,GBP,1.398,85.16,High,False
+2024-07-01,2024,7,UK,GBR,Europe,GBP,1.35,82.04,High,False
+2024-08-01,2024,8,UK,GBR,Europe,GBP,1.313,78.41,High,False
+2024-09-01,2024,9,UK,GBR,Europe,GBP,1.281,76.27,High,False
+2024-10-01,2024,10,UK,GBR,Europe,GBP,1.299,73.85,High,False
+2024-11-01,2024,11,UK,GBR,Europe,GBP,1.29,75.22,High,False
+2024-12-01,2024,12,UK,GBR,Europe,GBP,1.347,78.32,High,False
+2025-01-01,2025,1,UK,GBR,Europe,GBP,1.344,78.26,High,False
+2025-02-01,2025,2,UK,GBR,Europe,GBP,1.29,75.04,High,False
+2025-03-01,2025,3,UK,GBR,Europe,GBP,1.254,71.18,High,False
+2025-04-01,2025,4,UK,GBR,Europe,GBP,1.251,68.93,High,False
+2025-05-01,2025,5,UK,GBR,Europe,GBP,1.234,68.11,High,False
+2025-06-01,2025,6,UK,GBR,Europe,GBP,1.25,69.63,High,False
+2025-07-01,2025,7,UK,GBR,Europe,GBP,1.237,71.19,High,False
+2025-08-01,2025,8,UK,GBR,Europe,GBP,1.281,71.81,High,False
+2025-09-01,2025,9,UK,GBR,Europe,GBP,1.269,73.22,High,False
+2025-10-01,2025,10,UK,GBR,Europe,GBP,1.256,74.05,High,False
+2025-11-01,2025,11,UK,GBR,Europe,GBP,1.285,74.48,High,False
+2025-12-01,2025,12,UK,GBR,Europe,GBP,1.294,73.87,High,False
+2026-01-01,2026,1,UK,GBR,Europe,GBP,1.307,72.62,High,False
+2026-02-01,2026,2,UK,GBR,Europe,GBP,1.269,72.51,High,False
+2026-03-01,2026,3,UK,GBR,Europe,GBP,1.256,72.61,High,False
+2020-01-01,2020,1,USA,USA,North America,USD,0.693,57.29,Low,False
+2020-02-01,2020,2,USA,USA,North America,USD,0.646,44.76,Low,False
+2020-03-01,2020,3,USA,USA,North America,USD,0.622,32.92,Low,False
+2020-04-01,2020,4,USA,USA,North America,USD,0.607,30.84,Low,False
+2020-05-01,2020,5,USA,USA,North America,USD,0.618,37.85,Low,False
+2020-06-01,2020,6,USA,USA,North America,USD,0.662,42.24,Low,False
+2020-07-01,2020,7,USA,USA,North America,USD,0.636,42.5,Low,False
+2020-08-01,2020,8,USA,USA,North America,USD,0.631,41.8,Low,False
+2020-09-01,2020,9,USA,USA,North America,USD,0.631,41.4,Low,False
+2020-10-01,2020,10,USA,USA,North America,USD,0.666,44.0,Low,False
+2020-11-01,2020,11,USA,USA,North America,USD,0.639,47.8,Low,False
+2020-12-01,2020,12,USA,USA,North America,USD,0.665,53.06,Low,False
+2021-01-01,2021,1,USA,USA,North America,USD,0.668,58.7,Low,False
+2021-02-01,2021,2,USA,USA,North America,USD,0.675,64.41,Low,False
+2021-03-01,2021,3,USA,USA,North America,USD,0.662,66.8,Low,False
+2021-04-01,2021,4,USA,USA,North America,USD,0.686,67.58,Low,False
+2021-05-01,2021,5,USA,USA,North America,USD,0.707,71.65,Low,False
+2021-06-01,2021,6,USA,USA,North America,USD,0.685,74.18,Low,False
+2021-07-01,2021,7,USA,USA,North America,USD,0.673,74.83,Low,False
+2021-08-01,2021,8,USA,USA,North America,USD,0.669,76.07,Low,False
+2021-09-01,2021,9,USA,USA,North America,USD,0.696,79.3,Low,False
+2021-10-01,2021,10,USA,USA,North America,USD,0.694,82.1,Low,False
+2021-11-01,2021,11,USA,USA,North America,USD,0.69,77.71,Low,False
+2021-12-01,2021,12,USA,USA,North America,USD,0.694,79.4,Low,False
+2022-01-01,2022,1,USA,USA,North America,USD,0.687,89.91,Low,False
+2022-02-01,2022,2,USA,USA,North America,USD,0.744,105.65,Low,False
+2022-03-01,2022,3,USA,USA,North America,USD,0.746,113.12,Low,False
+2022-04-01,2022,4,USA,USA,North America,USD,0.738,110.3,Low,False
+2022-05-01,2022,5,USA,USA,North America,USD,0.747,113.65,Low,False
+2022-06-01,2022,6,USA,USA,North America,USD,0.752,110.13,Low,False
+2022-07-01,2022,7,USA,USA,North America,USD,0.727,101.45,Low,False
+2022-08-01,2022,8,USA,USA,North America,USD,0.703,94.44,Low,False
+2022-09-01,2022,9,USA,USA,North America,USD,0.727,90.57,Low,False
+2022-10-01,2022,10,USA,USA,North America,USD,0.701,88.6,Low,False
+2022-11-01,2022,11,USA,USA,North America,USD,0.69,84.09,Low,False
+2022-12-01,2022,12,USA,USA,North America,USD,0.674,81.94,Low,False
+2023-01-01,2023,1,USA,USA,North America,USD,0.699,83.22,Low,False
+2023-02-01,2023,2,USA,USA,North America,USD,0.682,82.29,Low,False
+2023-03-01,2023,3,USA,USA,North America,USD,0.685,78.95,Low,False
+2023-04-01,2023,4,USA,USA,North America,USD,0.697,76.73,Low,False
+2023-05-01,2023,5,USA,USA,North America,USD,0.689,75.8,Low,False
+2023-06-01,2023,6,USA,USA,North America,USD,0.707,78.09,Low,False
+2023-07-01,2023,7,USA,USA,North America,USD,0.704,83.05,Low,False
+2023-08-01,2023,8,USA,USA,North America,USD,0.702,89.47,Low,False
+2023-09-01,2023,9,USA,USA,North America,USD,0.705,90.72,Low,False
+2023-10-01,2023,10,USA,USA,North America,USD,0.695,85.31,Low,False
+2023-11-01,2023,11,USA,USA,North America,USD,0.705,80.58,Low,False
+2023-12-01,2023,12,USA,USA,North America,USD,0.693,78.95,Low,False
+2024-01-01,2024,1,USA,USA,North America,USD,0.689,80.62,Low,False
+2024-02-01,2024,2,USA,USA,North America,USD,0.713,83.91,Low,False
+2024-03-01,2024,3,USA,USA,North America,USD,0.706,87.13,Low,False
+2024-04-01,2024,4,USA,USA,North America,USD,0.697,86.69,Low,False
+2024-05-01,2024,5,USA,USA,North America,USD,0.678,83.99,Low,False
+2024-06-01,2024,6,USA,USA,North America,USD,0.709,85.16,Low,False
+2024-07-01,2024,7,USA,USA,North America,USD,0.701,82.04,Low,False
+2024-08-01,2024,8,USA,USA,North America,USD,0.693,78.41,Low,False
+2024-09-01,2024,9,USA,USA,North America,USD,0.683,76.27,Low,False
+2024-10-01,2024,10,USA,USA,North America,USD,0.673,73.85,Low,False
+2024-11-01,2024,11,USA,USA,North America,USD,0.684,75.22,Low,False
+2024-12-01,2024,12,USA,USA,North America,USD,0.696,78.32,Low,False
+2025-01-01,2025,1,USA,USA,North America,USD,0.69,78.26,Low,False
+2025-02-01,2025,2,USA,USA,North America,USD,0.685,75.04,Low,False
+2025-03-01,2025,3,USA,USA,North America,USD,0.675,71.18,Low,False
+2025-04-01,2025,4,USA,USA,North America,USD,0.684,68.93,Low,False
+2025-05-01,2025,5,USA,USA,North America,USD,0.681,68.11,Low,False
+2025-06-01,2025,6,USA,USA,North America,USD,0.668,69.63,Low,False
+2025-07-01,2025,7,USA,USA,North America,USD,0.693,71.19,Low,False
+2025-08-01,2025,8,USA,USA,North America,USD,0.695,71.81,Low,False
+2025-09-01,2025,9,USA,USA,North America,USD,0.697,73.22,Low,False
+2025-10-01,2025,10,USA,USA,North America,USD,0.684,74.05,Low,False
+2025-11-01,2025,11,USA,USA,North America,USD,0.684,74.48,Low,False
+2025-12-01,2025,12,USA,USA,North America,USD,0.668,73.87,Low,False
+2026-01-01,2026,1,USA,USA,North America,USD,0.695,72.62,Low,False
+2026-02-01,2026,2,USA,USA,North America,USD,0.652,72.51,Low,False
+2026-03-01,2026,3,USA,USA,North America,USD,0.678,72.61,Low,False
+2020-01-01,2020,1,Canada,CAN,North America,CAD,0.773,57.29,Low,False
+2020-02-01,2020,2,Canada,CAN,North America,CAD,0.77,44.76,Low,False
+2020-03-01,2020,3,Canada,CAN,North America,CAD,0.736,32.92,Low,False
+2020-04-01,2020,4,Canada,CAN,North America,CAD,0.718,30.84,Low,False
+2020-05-01,2020,5,Canada,CAN,North America,CAD,0.723,37.85,Low,False
+2020-06-01,2020,6,Canada,CAN,North America,CAD,0.741,42.24,Low,False
+2020-07-01,2020,7,Canada,CAN,North America,CAD,0.754,42.5,Low,False
+2020-08-01,2020,8,Canada,CAN,North America,CAD,0.752,41.8,Low,False
+2020-09-01,2020,9,Canada,CAN,North America,CAD,0.748,41.4,Low,False
+2020-10-01,2020,10,Canada,CAN,North America,CAD,0.745,44.0,Low,False
+2020-11-01,2020,11,Canada,CAN,North America,CAD,0.759,47.8,Low,False
+2020-12-01,2020,12,Canada,CAN,North America,CAD,0.786,53.06,Low,False
+2021-01-01,2021,1,Canada,CAN,North America,CAD,0.764,58.7,Low,False
+2021-02-01,2021,2,Canada,CAN,North America,CAD,0.791,64.41,Low,False
+2021-03-01,2021,3,Canada,CAN,North America,CAD,0.819,66.8,Low,False
+2021-04-01,2021,4,Canada,CAN,North America,CAD,0.804,67.58,Low,False
+2021-05-01,2021,5,Canada,CAN,North America,CAD,0.796,71.65,Low,False
+2021-06-01,2021,6,Canada,CAN,North America,CAD,0.817,74.18,Low,False
+2021-07-01,2021,7,Canada,CAN,North America,CAD,0.797,74.83,Low,False
+2021-08-01,2021,8,Canada,CAN,North America,CAD,0.811,76.07,Low,False
+2021-09-01,2021,9,Canada,CAN,North America,CAD,0.839,79.3,Low,False
+2021-10-01,2021,10,Canada,CAN,North America,CAD,0.849,82.1,Low,False
+2021-11-01,2021,11,Canada,CAN,North America,CAD,0.788,77.71,Low,False
+2021-12-01,2021,12,Canada,CAN,North America,CAD,0.827,79.4,Low,False
+2022-01-01,2022,1,Canada,CAN,North America,CAD,0.863,89.91,Low,False
+2022-02-01,2022,2,Canada,CAN,North America,CAD,0.853,105.65,Low,False
+2022-03-01,2022,3,Canada,CAN,North America,CAD,0.878,113.12,Low,False
+2022-04-01,2022,4,Canada,CAN,North America,CAD,0.892,110.3,Low,False
+2022-05-01,2022,5,Canada,CAN,North America,CAD,0.867,113.65,Low,False
+2022-06-01,2022,6,Canada,CAN,North America,CAD,0.876,110.13,Low,False
+2022-07-01,2022,7,Canada,CAN,North America,CAD,0.853,101.45,Low,False
+2022-08-01,2022,8,Canada,CAN,North America,CAD,0.813,94.44,Low,False
+2022-09-01,2022,9,Canada,CAN,North America,CAD,0.84,90.57,Low,False
+2022-10-01,2022,10,Canada,CAN,North America,CAD,0.829,88.6,Low,False
+2022-11-01,2022,11,Canada,CAN,North America,CAD,0.838,84.09,Low,False
+2022-12-01,2022,12,Canada,CAN,North America,CAD,0.852,81.94,Low,False
+2023-01-01,2023,1,Canada,CAN,North America,CAD,0.833,83.22,Low,False
+2023-02-01,2023,2,Canada,CAN,North America,CAD,0.816,82.29,Low,False
+2023-03-01,2023,3,Canada,CAN,North America,CAD,0.822,78.95,Low,False
+2023-04-01,2023,4,Canada,CAN,North America,CAD,0.815,76.73,Low,False
+2023-05-01,2023,5,Canada,CAN,North America,CAD,0.825,75.8,Low,False
+2023-06-01,2023,6,Canada,CAN,North America,CAD,0.792,78.09,Low,False
+2023-07-01,2023,7,Canada,CAN,North America,CAD,0.805,83.05,Low,False
+2023-08-01,2023,8,Canada,CAN,North America,CAD,0.803,89.47,Low,False
+2023-09-01,2023,9,Canada,CAN,North America,CAD,0.845,90.72,Low,False
+2023-10-01,2023,10,Canada,CAN,North America,CAD,0.826,85.31,Low,False
+2023-11-01,2023,11,Canada,CAN,North America,CAD,0.809,80.58,Low,False
+2023-12-01,2023,12,Canada,CAN,North America,CAD,0.804,78.95,Low,False
+2024-01-01,2024,1,Canada,CAN,North America,CAD,0.81,80.62,Low,False
+2024-02-01,2024,2,Canada,CAN,North America,CAD,0.81,83.91,Low,False
+2024-03-01,2024,3,Canada,CAN,North America,CAD,0.825,87.13,Low,False
+2024-04-01,2024,4,Canada,CAN,North America,CAD,0.821,86.69,Low,False
+2024-05-01,2024,5,Canada,CAN,North America,CAD,0.845,83.99,Low,False
+2024-06-01,2024,6,Canada,CAN,North America,CAD,0.831,85.16,Low,False
+2024-07-01,2024,7,Canada,CAN,North America,CAD,0.808,82.04,Low,False
+2024-08-01,2024,8,Canada,CAN,North America,CAD,0.806,78.41,Low,False
+2024-09-01,2024,9,Canada,CAN,North America,CAD,0.829,76.27,Low,False
+2024-10-01,2024,10,Canada,CAN,North America,CAD,0.813,73.85,Low,False
+2024-11-01,2024,11,Canada,CAN,North America,CAD,0.813,75.22,Low,False
+2024-12-01,2024,12,Canada,CAN,North America,CAD,0.825,78.32,Low,False
+2025-01-01,2025,1,Canada,CAN,North America,CAD,0.838,78.26,Low,False
+2025-02-01,2025,2,Canada,CAN,North America,CAD,0.79,75.04,Low,False
+2025-03-01,2025,3,Canada,CAN,North America,CAD,0.791,71.18,Low,False
+2025-04-01,2025,4,Canada,CAN,North America,CAD,0.772,68.93,Low,False
+2025-05-01,2025,5,Canada,CAN,North America,CAD,0.804,68.11,Low,False
+2025-06-01,2025,6,Canada,CAN,North America,CAD,0.794,69.63,Low,False
+2025-07-01,2025,7,Canada,CAN,North America,CAD,0.792,71.19,Low,False
+2025-08-01,2025,8,Canada,CAN,North America,CAD,0.792,71.81,Low,False
+2025-09-01,2025,9,Canada,CAN,North America,CAD,0.816,73.22,Low,False
+2025-10-01,2025,10,Canada,CAN,North America,CAD,0.805,74.05,Low,False
+2025-11-01,2025,11,Canada,CAN,North America,CAD,0.8,74.48,Low,False
+2025-12-01,2025,12,Canada,CAN,North America,CAD,0.825,73.87,Low,False
+2026-01-01,2026,1,Canada,CAN,North America,CAD,0.789,72.62,Low,False
+2026-02-01,2026,2,Canada,CAN,North America,CAD,0.785,72.51,Low,False
+2026-03-01,2026,3,Canada,CAN,North America,CAD,0.843,72.61,Low,False
+2020-01-01,2020,1,Saudi Arabia,SAU,Middle East,SAR,0.17,57.29,Low,True
+2020-02-01,2020,2,Saudi Arabia,SAU,Middle East,SAR,0.162,44.76,Low,True
+2020-03-01,2020,3,Saudi Arabia,SAU,Middle East,SAR,0.155,32.92,Low,True
+2020-04-01,2020,4,Saudi Arabia,SAU,Middle East,SAR,0.163,30.84,Low,True
+2020-05-01,2020,5,Saudi Arabia,SAU,Middle East,SAR,0.179,37.85,Low,True
+2020-06-01,2020,6,Saudi Arabia,SAU,Middle East,SAR,0.181,42.24,Low,True
+2020-07-01,2020,7,Saudi Arabia,SAU,Middle East,SAR,0.178,42.5,Low,True
+2020-08-01,2020,8,Saudi Arabia,SAU,Middle East,SAR,0.165,41.8,Low,True
+2020-09-01,2020,9,Saudi Arabia,SAU,Middle East,SAR,0.147,41.4,Low,True
+2020-10-01,2020,10,Saudi Arabia,SAU,Middle East,SAR,0.174,44.0,Low,True
+2020-11-01,2020,11,Saudi Arabia,SAU,Middle East,SAR,0.194,47.8,Low,True
+2020-12-01,2020,12,Saudi Arabia,SAU,Middle East,SAR,0.19,53.06,Low,True
+2021-01-01,2021,1,Saudi Arabia,SAU,Middle East,SAR,0.173,58.7,Low,True
+2021-02-01,2021,2,Saudi Arabia,SAU,Middle East,SAR,0.19,64.41,Low,True
+2021-03-01,2021,3,Saudi Arabia,SAU,Middle East,SAR,0.173,66.8,Low,True
+2021-04-01,2021,4,Saudi Arabia,SAU,Middle East,SAR,0.178,67.58,Low,True
+2021-05-01,2021,5,Saudi Arabia,SAU,Middle East,SAR,0.162,71.65,Low,True
+2021-06-01,2021,6,Saudi Arabia,SAU,Middle East,SAR,0.177,74.18,Low,True
+2021-07-01,2021,7,Saudi Arabia,SAU,Middle East,SAR,0.184,74.83,Low,True
+2021-08-01,2021,8,Saudi Arabia,SAU,Middle East,SAR,0.18,76.07,Low,True
+2021-09-01,2021,9,Saudi Arabia,SAU,Middle East,SAR,0.195,79.3,Low,True
+2021-10-01,2021,10,Saudi Arabia,SAU,Middle East,SAR,0.213,82.1,Low,True
+2021-11-01,2021,11,Saudi Arabia,SAU,Middle East,SAR,0.203,77.71,Low,True
+2021-12-01,2021,12,Saudi Arabia,SAU,Middle East,SAR,0.179,79.4,Low,True
+2022-01-01,2022,1,Saudi Arabia,SAU,Middle East,SAR,0.174,89.91,Low,True
+2022-02-01,2022,2,Saudi Arabia,SAU,Middle East,SAR,0.178,105.65,Low,True
+2022-03-01,2022,3,Saudi Arabia,SAU,Middle East,SAR,0.175,113.12,Low,True
+2022-04-01,2022,4,Saudi Arabia,SAU,Middle East,SAR,0.19,110.3,Low,True
+2022-05-01,2022,5,Saudi Arabia,SAU,Middle East,SAR,0.196,113.65,Low,True
+2022-06-01,2022,6,Saudi Arabia,SAU,Middle East,SAR,0.192,110.13,Low,True
+2022-07-01,2022,7,Saudi Arabia,SAU,Middle East,SAR,0.19,101.45,Low,True
+2022-08-01,2022,8,Saudi Arabia,SAU,Middle East,SAR,0.188,94.44,Low,True
+2022-09-01,2022,9,Saudi Arabia,SAU,Middle East,SAR,0.183,90.57,Low,True
+2022-10-01,2022,10,Saudi Arabia,SAU,Middle East,SAR,0.173,88.6,Low,True
+2022-11-01,2022,11,Saudi Arabia,SAU,Middle East,SAR,0.209,84.09,Low,True
+2022-12-01,2022,12,Saudi Arabia,SAU,Middle East,SAR,0.198,81.94,Low,True
+2023-01-01,2023,1,Saudi Arabia,SAU,Middle East,SAR,0.169,83.22,Low,True
+2023-02-01,2023,2,Saudi Arabia,SAU,Middle East,SAR,0.169,82.29,Low,True
+2023-03-01,2023,3,Saudi Arabia,SAU,Middle East,SAR,0.173,78.95,Low,True
+2023-04-01,2023,4,Saudi Arabia,SAU,Middle East,SAR,0.182,76.73,Low,True
+2023-05-01,2023,5,Saudi Arabia,SAU,Middle East,SAR,0.2,75.8,Low,True
+2023-06-01,2023,6,Saudi Arabia,SAU,Middle East,SAR,0.197,78.09,Low,True
+2023-07-01,2023,7,Saudi Arabia,SAU,Middle East,SAR,0.199,83.05,Low,True
+2023-08-01,2023,8,Saudi Arabia,SAU,Middle East,SAR,0.201,89.47,Low,True
+2023-09-01,2023,9,Saudi Arabia,SAU,Middle East,SAR,0.201,90.72,Low,True
+2023-10-01,2023,10,Saudi Arabia,SAU,Middle East,SAR,0.195,85.31,Low,True
+2023-11-01,2023,11,Saudi Arabia,SAU,Middle East,SAR,0.189,80.58,Low,True
+2023-12-01,2023,12,Saudi Arabia,SAU,Middle East,SAR,0.18,78.95,Low,True
+2024-01-01,2024,1,Saudi Arabia,SAU,Middle East,SAR,0.156,80.62,Low,True
+2024-02-01,2024,2,Saudi Arabia,SAU,Middle East,SAR,0.181,83.91,Low,True
+2024-03-01,2024,3,Saudi Arabia,SAU,Middle East,SAR,0.211,87.13,Low,True
+2024-04-01,2024,4,Saudi Arabia,SAU,Middle East,SAR,0.176,86.69,Low,True
+2024-05-01,2024,5,Saudi Arabia,SAU,Middle East,SAR,0.174,83.99,Low,True
+2024-06-01,2024,6,Saudi Arabia,SAU,Middle East,SAR,0.199,85.16,Low,True
+2024-07-01,2024,7,Saudi Arabia,SAU,Middle East,SAR,0.184,82.04,Low,True
+2024-08-01,2024,8,Saudi Arabia,SAU,Middle East,SAR,0.175,78.41,Low,True
+2024-09-01,2024,9,Saudi Arabia,SAU,Middle East,SAR,0.205,76.27,Low,True
+2024-10-01,2024,10,Saudi Arabia,SAU,Middle East,SAR,0.19,73.85,Low,True
+2024-11-01,2024,11,Saudi Arabia,SAU,Middle East,SAR,0.193,75.22,Low,True
+2024-12-01,2024,12,Saudi Arabia,SAU,Middle East,SAR,0.173,78.32,Low,True
+2025-01-01,2025,1,Saudi Arabia,SAU,Middle East,SAR,0.189,78.26,Low,True
+2025-02-01,2025,2,Saudi Arabia,SAU,Middle East,SAR,0.187,75.04,Low,True
+2025-03-01,2025,3,Saudi Arabia,SAU,Middle East,SAR,0.192,71.18,Low,True
+2025-04-01,2025,4,Saudi Arabia,SAU,Middle East,SAR,0.197,68.93,Low,True
+2025-05-01,2025,5,Saudi Arabia,SAU,Middle East,SAR,0.196,68.11,Low,True
+2025-06-01,2025,6,Saudi Arabia,SAU,Middle East,SAR,0.182,69.63,Low,True
+2025-07-01,2025,7,Saudi Arabia,SAU,Middle East,SAR,0.191,71.19,Low,True
+2025-08-01,2025,8,Saudi Arabia,SAU,Middle East,SAR,0.163,71.81,Low,True
+2025-09-01,2025,9,Saudi Arabia,SAU,Middle East,SAR,0.19,73.22,Low,True
+2025-10-01,2025,10,Saudi Arabia,SAU,Middle East,SAR,0.191,74.05,Low,True
+2025-11-01,2025,11,Saudi Arabia,SAU,Middle East,SAR,0.175,74.48,Low,True
+2025-12-01,2025,12,Saudi Arabia,SAU,Middle East,SAR,0.169,73.87,Low,True
+2026-01-01,2026,1,Saudi Arabia,SAU,Middle East,SAR,0.18,72.62,Low,True
+2026-02-01,2026,2,Saudi Arabia,SAU,Middle East,SAR,0.162,72.51,Low,True
+2026-03-01,2026,3,Saudi Arabia,SAU,Middle East,SAR,0.186,72.61,Low,True
+2020-01-01,2020,1,UAE,ARE,Middle East,AED,0.442,57.29,Low,True
+2020-02-01,2020,2,UAE,ARE,Middle East,AED,0.411,44.76,Low,True
+2020-03-01,2020,3,UAE,ARE,Middle East,AED,0.415,32.92,Low,True
+2020-04-01,2020,4,UAE,ARE,Middle East,AED,0.428,30.84,Low,True
+2020-05-01,2020,5,UAE,ARE,Middle East,AED,0.435,37.85,Low,True
+2020-06-01,2020,6,UAE,ARE,Middle East,AED,0.438,42.24,Low,True
+2020-07-01,2020,7,UAE,ARE,Middle East,AED,0.421,42.5,Low,True
+2020-08-01,2020,8,UAE,ARE,Middle East,AED,0.418,41.8,Low,True
+2020-09-01,2020,9,UAE,ARE,Middle East,AED,0.417,41.4,Low,True
+2020-10-01,2020,10,UAE,ARE,Middle East,AED,0.434,44.0,Low,True
+2020-11-01,2020,11,UAE,ARE,Middle East,AED,0.464,47.8,Low,True
+2020-12-01,2020,12,UAE,ARE,Middle East,AED,0.455,53.06,Low,True
+2021-01-01,2021,1,UAE,ARE,Middle East,AED,0.463,58.7,Low,True
+2021-02-01,2021,2,UAE,ARE,Middle East,AED,0.465,64.41,Low,True
+2021-03-01,2021,3,UAE,ARE,Middle East,AED,0.423,66.8,Low,True
+2021-04-01,2021,4,UAE,ARE,Middle East,AED,0.445,67.58,Low,True
+2021-05-01,2021,5,UAE,ARE,Middle East,AED,0.445,71.65,Low,True
+2021-06-01,2021,6,UAE,ARE,Middle East,AED,0.473,74.18,Low,True
+2021-07-01,2021,7,UAE,ARE,Middle East,AED,0.48,74.83,Low,True
+2021-08-01,2021,8,UAE,ARE,Middle East,AED,0.446,76.07,Low,True
+2021-09-01,2021,9,UAE,ARE,Middle East,AED,0.46,79.3,Low,True
+2021-10-01,2021,10,UAE,ARE,Middle East,AED,0.47,82.1,Low,True
+2021-11-01,2021,11,UAE,ARE,Middle East,AED,0.45,77.71,Low,True
+2021-12-01,2021,12,UAE,ARE,Middle East,AED,0.45,79.4,Low,True
+2022-01-01,2022,1,UAE,ARE,Middle East,AED,0.451,89.91,Low,True
+2022-02-01,2022,2,UAE,ARE,Middle East,AED,0.484,105.65,Low,True
+2022-03-01,2022,3,UAE,ARE,Middle East,AED,0.461,113.12,Low,True
+2022-04-01,2022,4,UAE,ARE,Middle East,AED,0.49,110.3,Low,True
+2022-05-01,2022,5,UAE,ARE,Middle East,AED,0.477,113.65,Low,True
+2022-06-01,2022,6,UAE,ARE,Middle East,AED,0.484,110.13,Low,True
+2022-07-01,2022,7,UAE,ARE,Middle East,AED,0.491,101.45,Low,True
+2022-08-01,2022,8,UAE,ARE,Middle East,AED,0.454,94.44,Low,True
+2022-09-01,2022,9,UAE,ARE,Middle East,AED,0.45,90.57,Low,True
+2022-10-01,2022,10,UAE,ARE,Middle East,AED,0.467,88.6,Low,True
+2022-11-01,2022,11,UAE,ARE,Middle East,AED,0.443,84.09,Low,True
+2022-12-01,2022,12,UAE,ARE,Middle East,AED,0.446,81.94,Low,True
+2023-01-01,2023,1,UAE,ARE,Middle East,AED,0.456,83.22,Low,True
+2023-02-01,2023,2,UAE,ARE,Middle East,AED,0.459,82.29,Low,True
+2023-03-01,2023,3,UAE,ARE,Middle East,AED,0.437,78.95,Low,True
+2023-04-01,2023,4,UAE,ARE,Middle East,AED,0.448,76.73,Low,True
+2023-05-01,2023,5,UAE,ARE,Middle East,AED,0.462,75.8,Low,True
+2023-06-01,2023,6,UAE,ARE,Middle East,AED,0.475,78.09,Low,True
+2023-07-01,2023,7,UAE,ARE,Middle East,AED,0.428,83.05,Low,True
+2023-08-01,2023,8,UAE,ARE,Middle East,AED,0.481,89.47,Low,True
+2023-09-01,2023,9,UAE,ARE,Middle East,AED,0.475,90.72,Low,True
+2023-10-01,2023,10,UAE,ARE,Middle East,AED,0.443,85.31,Low,True
+2023-11-01,2023,11,UAE,ARE,Middle East,AED,0.434,80.58,Low,True
+2023-12-01,2023,12,UAE,ARE,Middle East,AED,0.461,78.95,Low,True
+2024-01-01,2024,1,UAE,ARE,Middle East,AED,0.45,80.62,Low,True
+2024-02-01,2024,2,UAE,ARE,Middle East,AED,0.46,83.91,Low,True
+2024-03-01,2024,3,UAE,ARE,Middle East,AED,0.473,87.13,Low,True
+2024-04-01,2024,4,UAE,ARE,Middle East,AED,0.454,86.69,Low,True
+2024-05-01,2024,5,UAE,ARE,Middle East,AED,0.461,83.99,Low,True
+2024-06-01,2024,6,UAE,ARE,Middle East,AED,0.466,85.16,Low,True
+2024-07-01,2024,7,UAE,ARE,Middle East,AED,0.47,82.04,Low,True
+2024-08-01,2024,8,UAE,ARE,Middle East,AED,0.481,78.41,Low,True
+2024-09-01,2024,9,UAE,ARE,Middle East,AED,0.479,76.27,Low,True
+2024-10-01,2024,10,UAE,ARE,Middle East,AED,0.456,73.85,Low,True
+2024-11-01,2024,11,UAE,ARE,Middle East,AED,0.449,75.22,Low,True
+2024-12-01,2024,12,UAE,ARE,Middle East,AED,0.49,78.32,Low,True
+2025-01-01,2025,1,UAE,ARE,Middle East,AED,0.464,78.26,Low,True
+2025-02-01,2025,2,UAE,ARE,Middle East,AED,0.459,75.04,Low,True
+2025-03-01,2025,3,UAE,ARE,Middle East,AED,0.434,71.18,Low,True
+2025-04-01,2025,4,UAE,ARE,Middle East,AED,0.461,68.93,Low,True
+2025-05-01,2025,5,UAE,ARE,Middle East,AED,0.437,68.11,Low,True
+2025-06-01,2025,6,UAE,ARE,Middle East,AED,0.443,69.63,Low,True
+2025-07-01,2025,7,UAE,ARE,Middle East,AED,0.431,71.19,Low,True
+2025-08-01,2025,8,UAE,ARE,Middle East,AED,0.443,71.81,Low,True
+2025-09-01,2025,9,UAE,ARE,Middle East,AED,0.453,73.22,Low,True
+2025-10-01,2025,10,UAE,ARE,Middle East,AED,0.43,74.05,Low,True
+2025-11-01,2025,11,UAE,ARE,Middle East,AED,0.439,74.48,Low,True
+2025-12-01,2025,12,UAE,ARE,Middle East,AED,0.451,73.87,Low,True
+2026-01-01,2026,1,UAE,ARE,Middle East,AED,0.433,72.62,Low,True
+2026-02-01,2026,2,UAE,ARE,Middle East,AED,0.433,72.51,Low,True
+2026-03-01,2026,3,UAE,ARE,Middle East,AED,0.439,72.61,Low,True
+2020-01-01,2020,1,Iran,IRN,Middle East,IRR,0.028,57.29,Low,True
+2020-02-01,2020,2,Iran,IRN,Middle East,IRR,0.056,44.76,Low,True
+2020-03-01,2020,3,Iran,IRN,Middle East,IRR,0.031,32.92,Low,True
+2020-04-01,2020,4,Iran,IRN,Middle East,IRR,0.057,30.84,Low,True
+2020-05-01,2020,5,Iran,IRN,Middle East,IRR,0.06,37.85,Low,True
+2020-06-01,2020,6,Iran,IRN,Middle East,IRR,0.029,42.24,Low,True
+2020-07-01,2020,7,Iran,IRN,Middle East,IRR,0.048,42.5,Low,True
+2020-08-01,2020,8,Iran,IRN,Middle East,IRR,0.04,41.8,Low,True
+2020-09-01,2020,9,Iran,IRN,Middle East,IRR,0.03,41.4,Low,True
+2020-10-01,2020,10,Iran,IRN,Middle East,IRR,0.042,44.0,Low,True
+2020-11-01,2020,11,Iran,IRN,Middle East,IRR,0.044,47.8,Low,True
+2020-12-01,2020,12,Iran,IRN,Middle East,IRR,0.059,53.06,Low,True
+2021-01-01,2021,1,Iran,IRN,Middle East,IRR,0.064,58.7,Low,True
+2021-02-01,2021,2,Iran,IRN,Middle East,IRR,0.033,64.41,Low,True
+2021-03-01,2021,3,Iran,IRN,Middle East,IRR,0.044,66.8,Low,True
+2021-04-01,2021,4,Iran,IRN,Middle East,IRR,0.058,67.58,Low,True
+2021-05-01,2021,5,Iran,IRN,Middle East,IRR,0.068,71.65,Low,True
+2021-06-01,2021,6,Iran,IRN,Middle East,IRR,0.02,74.18,Low,True
+2021-07-01,2021,7,Iran,IRN,Middle East,IRR,0.07,74.83,Low,True
+2021-08-01,2021,8,Iran,IRN,Middle East,IRR,0.048,76.07,Low,True
+2021-09-01,2021,9,Iran,IRN,Middle East,IRR,0.074,79.3,Low,True
+2021-10-01,2021,10,Iran,IRN,Middle East,IRR,0.045,82.1,Low,True
+2021-11-01,2021,11,Iran,IRN,Middle East,IRR,0.038,77.71,Low,True
+2021-12-01,2021,12,Iran,IRN,Middle East,IRR,0.052,79.4,Low,True
+2022-01-01,2022,1,Iran,IRN,Middle East,IRR,0.069,89.91,Low,True
+2022-02-01,2022,2,Iran,IRN,Middle East,IRR,0.053,105.65,Low,True
+2022-03-01,2022,3,Iran,IRN,Middle East,IRR,0.02,113.12,Low,True
+2022-04-01,2022,4,Iran,IRN,Middle East,IRR,0.063,110.3,Low,True
+2022-05-01,2022,5,Iran,IRN,Middle East,IRR,0.029,113.65,Low,True
+2022-06-01,2022,6,Iran,IRN,Middle East,IRR,0.038,110.13,Low,True
+2022-07-01,2022,7,Iran,IRN,Middle East,IRR,0.035,101.45,Low,True
+2022-08-01,2022,8,Iran,IRN,Middle East,IRR,0.024,94.44,Low,True
+2022-09-01,2022,9,Iran,IRN,Middle East,IRR,0.033,90.57,Low,True
+2022-10-01,2022,10,Iran,IRN,Middle East,IRR,0.036,88.6,Low,True
+2022-11-01,2022,11,Iran,IRN,Middle East,IRR,0.042,84.09,Low,True
+2022-12-01,2022,12,Iran,IRN,Middle East,IRR,0.05,81.94,Low,True
+2023-01-01,2023,1,Iran,IRN,Middle East,IRR,0.046,83.22,Low,True
+2023-02-01,2023,2,Iran,IRN,Middle East,IRR,0.029,82.29,Low,True
+2023-03-01,2023,3,Iran,IRN,Middle East,IRR,0.048,78.95,Low,True
+2023-04-01,2023,4,Iran,IRN,Middle East,IRR,0.065,76.73,Low,True
+2023-05-01,2023,5,Iran,IRN,Middle East,IRR,0.065,75.8,Low,True
+2023-06-01,2023,6,Iran,IRN,Middle East,IRR,0.053,78.09,Low,True
+2023-07-01,2023,7,Iran,IRN,Middle East,IRR,0.06,83.05,Low,True
+2023-08-01,2023,8,Iran,IRN,Middle East,IRR,0.065,89.47,Low,True
+2023-09-01,2023,9,Iran,IRN,Middle East,IRR,0.072,90.72,Low,True
+2023-10-01,2023,10,Iran,IRN,Middle East,IRR,0.076,85.31,Low,True
+2023-11-01,2023,11,Iran,IRN,Middle East,IRR,0.046,80.58,Low,True
+2023-12-01,2023,12,Iran,IRN,Middle East,IRR,0.047,78.95,Low,True
+2024-01-01,2024,1,Iran,IRN,Middle East,IRR,0.073,80.62,Low,True
+2024-02-01,2024,2,Iran,IRN,Middle East,IRR,0.074,83.91,Low,True
+2024-03-01,2024,3,Iran,IRN,Middle East,IRR,0.074,87.13,Low,True
+2024-04-01,2024,4,Iran,IRN,Middle East,IRR,0.02,86.69,Low,True
+2024-05-01,2024,5,Iran,IRN,Middle East,IRR,0.048,83.99,Low,True
+2024-06-01,2024,6,Iran,IRN,Middle East,IRR,0.02,85.16,Low,True
+2024-07-01,2024,7,Iran,IRN,Middle East,IRR,0.062,82.04,Low,True
+2024-08-01,2024,8,Iran,IRN,Middle East,IRR,0.051,78.41,Low,True
+2024-09-01,2024,9,Iran,IRN,Middle East,IRR,0.051,76.27,Low,True
+2024-10-01,2024,10,Iran,IRN,Middle East,IRR,0.048,73.85,Low,True
+2024-11-01,2024,11,Iran,IRN,Middle East,IRR,0.07,75.22,Low,True
+2024-12-01,2024,12,Iran,IRN,Middle East,IRR,0.046,78.32,Low,True
+2025-01-01,2025,1,Iran,IRN,Middle East,IRR,0.066,78.26,Low,True
+2025-02-01,2025,2,Iran,IRN,Middle East,IRR,0.059,75.04,Low,True
+2025-03-01,2025,3,Iran,IRN,Middle East,IRR,0.055,71.18,Low,True
+2025-04-01,2025,4,Iran,IRN,Middle East,IRR,0.057,68.93,Low,True
+2025-05-01,2025,5,Iran,IRN,Middle East,IRR,0.052,68.11,Low,True
+2025-06-01,2025,6,Iran,IRN,Middle East,IRR,0.034,69.63,Low,True
+2025-07-01,2025,7,Iran,IRN,Middle East,IRR,0.061,71.19,Low,True
+2025-08-01,2025,8,Iran,IRN,Middle East,IRR,0.061,71.81,Low,True
+2025-09-01,2025,9,Iran,IRN,Middle East,IRR,0.048,73.22,Low,True
+2025-10-01,2025,10,Iran,IRN,Middle East,IRR,0.061,74.05,Low,True
+2025-11-01,2025,11,Iran,IRN,Middle East,IRR,0.064,74.48,Low,True
+2025-12-01,2025,12,Iran,IRN,Middle East,IRR,0.031,73.87,Low,True
+2026-01-01,2026,1,Iran,IRN,Middle East,IRR,0.048,72.62,Low,True
+2026-02-01,2026,2,Iran,IRN,Middle East,IRR,0.044,72.51,Low,True
+2026-03-01,2026,3,Iran,IRN,Middle East,IRR,0.037,72.61,Low,True
+2020-01-01,2020,1,Nigeria,NGA,Africa,NGN,0.32,57.29,High,True
+2020-02-01,2020,2,Nigeria,NGA,Africa,NGN,0.268,44.76,High,True
+2020-03-01,2020,3,Nigeria,NGA,Africa,NGN,0.242,32.92,High,True
+2020-04-01,2020,4,Nigeria,NGA,Africa,NGN,0.246,30.84,High,True
+2020-05-01,2020,5,Nigeria,NGA,Africa,NGN,0.267,37.85,High,True
+2020-06-01,2020,6,Nigeria,NGA,Africa,NGN,0.278,42.24,High,True
+2020-07-01,2020,7,Nigeria,NGA,Africa,NGN,0.308,42.5,High,True
+2020-08-01,2020,8,Nigeria,NGA,Africa,NGN,0.265,41.8,High,True
+2020-09-01,2020,9,Nigeria,NGA,Africa,NGN,0.275,41.4,High,True
+2020-10-01,2020,10,Nigeria,NGA,Africa,NGN,0.26,44.0,High,True
+2020-11-01,2020,11,Nigeria,NGA,Africa,NGN,0.296,47.8,High,True
+2020-12-01,2020,12,Nigeria,NGA,Africa,NGN,0.321,53.06,High,True
+2021-01-01,2021,1,Nigeria,NGA,Africa,NGN,0.337,58.7,High,True
+2021-02-01,2021,2,Nigeria,NGA,Africa,NGN,0.325,64.41,High,True
+2021-03-01,2021,3,Nigeria,NGA,Africa,NGN,0.337,66.8,High,True
+2021-04-01,2021,4,Nigeria,NGA,Africa,NGN,0.362,67.58,High,True
+2021-05-01,2021,5,Nigeria,NGA,Africa,NGN,0.353,71.65,High,True
+2021-06-01,2021,6,Nigeria,NGA,Africa,NGN,0.376,74.18,High,True
+2021-07-01,2021,7,Nigeria,NGA,Africa,NGN,0.349,74.83,High,True
+2021-08-01,2021,8,Nigeria,NGA,Africa,NGN,0.387,76.07,High,True
+2021-09-01,2021,9,Nigeria,NGA,Africa,NGN,0.391,79.3,High,True
+2021-10-01,2021,10,Nigeria,NGA,Africa,NGN,0.39,82.1,High,True
+2021-11-01,2021,11,Nigeria,NGA,Africa,NGN,0.359,77.71,High,True
+2021-12-01,2021,12,Nigeria,NGA,Africa,NGN,0.373,79.4,High,True
+2022-01-01,2022,1,Nigeria,NGA,Africa,NGN,0.385,89.91,High,True
+2022-02-01,2022,2,Nigeria,NGA,Africa,NGN,0.413,105.65,High,True
+2022-03-01,2022,3,Nigeria,NGA,Africa,NGN,0.42,113.12,High,True
+2022-04-01,2022,4,Nigeria,NGA,Africa,NGN,0.413,110.3,High,True
+2022-05-01,2022,5,Nigeria,NGA,Africa,NGN,0.425,113.65,High,True
+2022-06-01,2022,6,Nigeria,NGA,Africa,NGN,0.437,110.13,High,True
+2022-07-01,2022,7,Nigeria,NGA,Africa,NGN,0.372,101.45,High,True
+2022-08-01,2022,8,Nigeria,NGA,Africa,NGN,0.37,94.44,High,True
+2022-09-01,2022,9,Nigeria,NGA,Africa,NGN,0.361,90.57,High,True
+2022-10-01,2022,10,Nigeria,NGA,Africa,NGN,0.37,88.6,High,True
+2022-11-01,2022,11,Nigeria,NGA,Africa,NGN,0.347,84.09,High,True
+2022-12-01,2022,12,Nigeria,NGA,Africa,NGN,0.378,81.94,High,True
+2023-01-01,2023,1,Nigeria,NGA,Africa,NGN,0.373,83.22,High,True
+2023-02-01,2023,2,Nigeria,NGA,Africa,NGN,0.366,82.29,High,True
+2023-03-01,2023,3,Nigeria,NGA,Africa,NGN,0.355,78.95,High,True
+2023-04-01,2023,4,Nigeria,NGA,Africa,NGN,0.363,76.73,High,True
+2023-05-01,2023,5,Nigeria,NGA,Africa,NGN,0.362,75.8,High,True
+2023-06-01,2023,6,Nigeria,NGA,Africa,NGN,0.368,78.09,High,True
+2023-07-01,2023,7,Nigeria,NGA,Africa,NGN,0.361,83.05,High,True
+2023-08-01,2023,8,Nigeria,NGA,Africa,NGN,0.392,89.47,High,True
+2023-09-01,2023,9,Nigeria,NGA,Africa,NGN,0.362,90.72,High,True
+2023-10-01,2023,10,Nigeria,NGA,Africa,NGN,0.394,85.31,High,True
+2023-11-01,2023,11,Nigeria,NGA,Africa,NGN,0.321,80.58,High,True
+2023-12-01,2023,12,Nigeria,NGA,Africa,NGN,0.356,78.95,High,True
+2024-01-01,2024,1,Nigeria,NGA,Africa,NGN,0.349,80.62,High,True
+2024-02-01,2024,2,Nigeria,NGA,Africa,NGN,0.385,83.91,High,True
+2024-03-01,2024,3,Nigeria,NGA,Africa,NGN,0.356,87.13,High,True
+2024-04-01,2024,4,Nigeria,NGA,Africa,NGN,0.405,86.69,High,True
+2024-05-01,2024,5,Nigeria,NGA,Africa,NGN,0.35,83.99,High,True
+2024-06-01,2024,6,Nigeria,NGA,Africa,NGN,0.405,85.16,High,True
+2024-07-01,2024,7,Nigeria,NGA,Africa,NGN,0.377,82.04,High,True
+2024-08-01,2024,8,Nigeria,NGA,Africa,NGN,0.364,78.41,High,True
+2024-09-01,2024,9,Nigeria,NGA,Africa,NGN,0.367,76.27,High,True
+2024-10-01,2024,10,Nigeria,NGA,Africa,NGN,0.389,73.85,High,True
+2024-11-01,2024,11,Nigeria,NGA,Africa,NGN,0.372,75.22,High,True
+2024-12-01,2024,12,Nigeria,NGA,Africa,NGN,0.33,78.32,High,True
+2025-01-01,2025,1,Nigeria,NGA,Africa,NGN,0.382,78.26,High,True
+2025-02-01,2025,2,Nigeria,NGA,Africa,NGN,0.362,75.04,High,True
+2025-03-01,2025,3,Nigeria,NGA,Africa,NGN,0.328,71.18,High,True
+2025-04-01,2025,4,Nigeria,NGA,Africa,NGN,0.36,68.93,High,True
+2025-05-01,2025,5,Nigeria,NGA,Africa,NGN,0.329,68.11,High,True
+2025-06-01,2025,6,Nigeria,NGA,Africa,NGN,0.352,69.63,High,True
+2025-07-01,2025,7,Nigeria,NGA,Africa,NGN,0.355,71.19,High,True
+2025-08-01,2025,8,Nigeria,NGA,Africa,NGN,0.343,71.81,High,True
+2025-09-01,2025,9,Nigeria,NGA,Africa,NGN,0.365,73.22,High,True
+2025-10-01,2025,10,Nigeria,NGA,Africa,NGN,0.341,74.05,High,True
+2025-11-01,2025,11,Nigeria,NGA,Africa,NGN,0.36,74.48,High,True
+2025-12-01,2025,12,Nigeria,NGA,Africa,NGN,0.348,73.87,High,True
+2026-01-01,2026,1,Nigeria,NGA,Africa,NGN,0.352,72.62,High,True
+2026-02-01,2026,2,Nigeria,NGA,Africa,NGN,0.383,72.51,High,True
+2026-03-01,2026,3,Nigeria,NGA,Africa,NGN,0.356,72.61,High,True
+2020-01-01,2020,1,South Africa,ZAF,Africa,ZAR,0.835,57.29,Medium,False
+2020-02-01,2020,2,South Africa,ZAF,Africa,ZAR,0.801,44.76,Medium,False
+2020-03-01,2020,3,South Africa,ZAF,Africa,ZAR,0.745,32.92,Medium,False
+2020-04-01,2020,4,South Africa,ZAF,Africa,ZAR,0.749,30.84,Medium,False
+2020-05-01,2020,5,South Africa,ZAF,Africa,ZAR,0.778,37.85,Medium,False
+2020-06-01,2020,6,South Africa,ZAF,Africa,ZAR,0.794,42.24,Medium,False
+2020-07-01,2020,7,South Africa,ZAF,Africa,ZAR,0.795,42.5,Medium,False
+2020-08-01,2020,8,South Africa,ZAF,Africa,ZAR,0.783,41.8,Medium,False
+2020-09-01,2020,9,South Africa,ZAF,Africa,ZAR,0.796,41.4,Medium,False
+2020-10-01,2020,10,South Africa,ZAF,Africa,ZAR,0.816,44.0,Medium,False
+2020-11-01,2020,11,South Africa,ZAF,Africa,ZAR,0.805,47.8,Medium,False
+2020-12-01,2020,12,South Africa,ZAF,Africa,ZAR,0.834,53.06,Medium,False
+2021-01-01,2021,1,South Africa,ZAF,Africa,ZAR,0.857,58.7,Medium,False
+2021-02-01,2021,2,South Africa,ZAF,Africa,ZAR,0.897,64.41,Medium,False
+2021-03-01,2021,3,South Africa,ZAF,Africa,ZAR,0.904,66.8,Medium,False
+2021-04-01,2021,4,South Africa,ZAF,Africa,ZAR,0.88,67.58,Medium,False
+2021-05-01,2021,5,South Africa,ZAF,Africa,ZAR,0.907,71.65,Medium,False
+2021-06-01,2021,6,South Africa,ZAF,Africa,ZAR,0.894,74.18,Medium,False
+2021-07-01,2021,7,South Africa,ZAF,Africa,ZAR,0.904,74.83,Medium,False
+2021-08-01,2021,8,South Africa,ZAF,Africa,ZAR,0.924,76.07,Medium,False
+2021-09-01,2021,9,South Africa,ZAF,Africa,ZAR,0.945,79.3,Medium,False
+2021-10-01,2021,10,South Africa,ZAF,Africa,ZAR,0.961,82.1,Medium,False
+2021-11-01,2021,11,South Africa,ZAF,Africa,ZAR,0.925,77.71,Medium,False
+2021-12-01,2021,12,South Africa,ZAF,Africa,ZAR,0.916,79.4,Medium,False
+2022-01-01,2022,1,South Africa,ZAF,Africa,ZAR,0.983,89.91,Medium,False
+2022-02-01,2022,2,South Africa,ZAF,Africa,ZAR,1.035,105.65,Medium,False
+2022-03-01,2022,3,South Africa,ZAF,Africa,ZAR,1.073,113.12,Medium,False
+2022-04-01,2022,4,South Africa,ZAF,Africa,ZAR,1.058,110.3,Medium,False
+2022-05-01,2022,5,South Africa,ZAF,Africa,ZAR,1.079,113.65,Medium,False
+2022-06-01,2022,6,South Africa,ZAF,Africa,ZAR,1.065,110.13,Medium,False
+2022-07-01,2022,7,South Africa,ZAF,Africa,ZAR,1.034,101.45,Medium,False
+2022-08-01,2022,8,South Africa,ZAF,Africa,ZAR,0.987,94.44,Medium,False
+2022-09-01,2022,9,South Africa,ZAF,Africa,ZAR,0.994,90.57,Medium,False
+2022-10-01,2022,10,South Africa,ZAF,Africa,ZAR,0.964,88.6,Medium,False
+2022-11-01,2022,11,South Africa,ZAF,Africa,ZAR,0.956,84.09,Medium,False
+2022-12-01,2022,12,South Africa,ZAF,Africa,ZAR,0.974,81.94,Medium,False
+2023-01-01,2023,1,South Africa,ZAF,Africa,ZAR,0.956,83.22,Medium,False
+2023-02-01,2023,2,South Africa,ZAF,Africa,ZAR,0.93,82.29,Medium,False
+2023-03-01,2023,3,South Africa,ZAF,Africa,ZAR,0.957,78.95,Medium,False
+2023-04-01,2023,4,South Africa,ZAF,Africa,ZAR,0.941,76.73,Medium,False
+2023-05-01,2023,5,South Africa,ZAF,Africa,ZAR,0.939,75.8,Medium,False
+2023-06-01,2023,6,South Africa,ZAF,Africa,ZAR,0.934,78.09,Medium,False
+2023-07-01,2023,7,South Africa,ZAF,Africa,ZAR,0.956,83.05,Medium,False
+2023-08-01,2023,8,South Africa,ZAF,Africa,ZAR,0.972,89.47,Medium,False
+2023-09-01,2023,9,South Africa,ZAF,Africa,ZAR,0.969,90.72,Medium,False
+2023-10-01,2023,10,South Africa,ZAF,Africa,ZAR,0.982,85.31,Medium,False
+2023-11-01,2023,11,South Africa,ZAF,Africa,ZAR,0.935,80.58,Medium,False
+2023-12-01,2023,12,South Africa,ZAF,Africa,ZAR,0.927,78.95,Medium,False
+2024-01-01,2024,1,South Africa,ZAF,Africa,ZAR,0.934,80.62,Medium,False
+2024-02-01,2024,2,South Africa,ZAF,Africa,ZAR,0.982,83.91,Medium,False
+2024-03-01,2024,3,South Africa,ZAF,Africa,ZAR,0.979,87.13,Medium,False
+2024-04-01,2024,4,South Africa,ZAF,Africa,ZAR,0.959,86.69,Medium,False
+2024-05-01,2024,5,South Africa,ZAF,Africa,ZAR,0.953,83.99,Medium,False
+2024-06-01,2024,6,South Africa,ZAF,Africa,ZAR,0.966,85.16,Medium,False
+2024-07-01,2024,7,South Africa,ZAF,Africa,ZAR,0.96,82.04,Medium,False
+2024-08-01,2024,8,South Africa,ZAF,Africa,ZAR,0.908,78.41,Medium,False
+2024-09-01,2024,9,South Africa,ZAF,Africa,ZAR,0.938,76.27,Medium,False
+2024-10-01,2024,10,South Africa,ZAF,Africa,ZAR,0.912,73.85,Medium,False
+2024-11-01,2024,11,South Africa,ZAF,Africa,ZAR,0.91,75.22,Medium,False
+2024-12-01,2024,12,South Africa,ZAF,Africa,ZAR,0.926,78.32,Medium,False
+2025-01-01,2025,1,South Africa,ZAF,Africa,ZAR,0.944,78.26,Medium,False
+2025-02-01,2025,2,South Africa,ZAF,Africa,ZAR,0.946,75.04,Medium,False
+2025-03-01,2025,3,South Africa,ZAF,Africa,ZAR,0.907,71.18,Medium,False
+2025-04-01,2025,4,South Africa,ZAF,Africa,ZAR,0.904,68.93,Medium,False
+2025-05-01,2025,5,South Africa,ZAF,Africa,ZAR,0.88,68.11,Medium,False
+2025-06-01,2025,6,South Africa,ZAF,Africa,ZAR,0.906,69.63,Medium,False
+2025-07-01,2025,7,South Africa,ZAF,Africa,ZAR,0.917,71.19,Medium,False
+2025-08-01,2025,8,South Africa,ZAF,Africa,ZAR,0.885,71.81,Medium,False
+2025-09-01,2025,9,South Africa,ZAF,Africa,ZAR,0.905,73.22,Medium,False
+2025-10-01,2025,10,South Africa,ZAF,Africa,ZAR,0.927,74.05,Medium,False
+2025-11-01,2025,11,South Africa,ZAF,Africa,ZAR,0.891,74.48,Medium,False
+2025-12-01,2025,12,South Africa,ZAF,Africa,ZAR,0.909,73.87,Medium,False
+2026-01-01,2026,1,South Africa,ZAF,Africa,ZAR,0.919,72.62,Medium,False
+2026-02-01,2026,2,South Africa,ZAF,Africa,ZAR,0.884,72.51,Medium,False
+2026-03-01,2026,3,South Africa,ZAF,Africa,ZAR,0.904,72.61,Medium,False
+2020-01-01,2020,1,Brazil,BRA,Latin America,BRL,0.899,57.29,Medium,False
+2020-02-01,2020,2,Brazil,BRA,Latin America,BRL,0.861,44.76,Medium,False
+2020-03-01,2020,3,Brazil,BRA,Latin America,BRL,0.78,32.92,Medium,False
+2020-04-01,2020,4,Brazil,BRA,Latin America,BRL,0.807,30.84,Medium,False
+2020-05-01,2020,5,Brazil,BRA,Latin America,BRL,0.824,37.85,Medium,False
+2020-06-01,2020,6,Brazil,BRA,Latin America,BRL,0.855,42.24,Medium,False
+2020-07-01,2020,7,Brazil,BRA,Latin America,BRL,0.855,42.5,Medium,False
+2020-08-01,2020,8,Brazil,BRA,Latin America,BRL,0.84,41.8,Medium,False
+2020-09-01,2020,9,Brazil,BRA,Latin America,BRL,0.841,41.4,Medium,False
+2020-10-01,2020,10,Brazil,BRA,Latin America,BRL,0.818,44.0,Medium,False
+2020-11-01,2020,11,Brazil,BRA,Latin America,BRL,0.839,47.8,Medium,False
+2020-12-01,2020,12,Brazil,BRA,Latin America,BRL,0.866,53.06,Medium,False
+2021-01-01,2021,1,Brazil,BRA,Latin America,BRL,0.899,58.7,Medium,False
+2021-02-01,2021,2,Brazil,BRA,Latin America,BRL,0.941,64.41,Medium,False
+2021-03-01,2021,3,Brazil,BRA,Latin America,BRL,0.91,66.8,Medium,False
+2021-04-01,2021,4,Brazil,BRA,Latin America,BRL,0.935,67.58,Medium,False
+2021-05-01,2021,5,Brazil,BRA,Latin America,BRL,0.937,71.65,Medium,False
+2021-06-01,2021,6,Brazil,BRA,Latin America,BRL,0.944,74.18,Medium,False
+2021-07-01,2021,7,Brazil,BRA,Latin America,BRL,0.992,74.83,Medium,False
+2021-08-01,2021,8,Brazil,BRA,Latin America,BRL,0.976,76.07,Medium,False
+2021-09-01,2021,9,Brazil,BRA,Latin America,BRL,1.012,79.3,Medium,False
+2021-10-01,2021,10,Brazil,BRA,Latin America,BRL,1.017,82.1,Medium,False
+2021-11-01,2021,11,Brazil,BRA,Latin America,BRL,0.968,77.71,Medium,False
+2021-12-01,2021,12,Brazil,BRA,Latin America,BRL,0.96,79.4,Medium,False
+2022-01-01,2022,1,Brazil,BRA,Latin America,BRL,1.062,89.91,Medium,False
+2022-02-01,2022,2,Brazil,BRA,Latin America,BRL,1.089,105.65,Medium,False
+2022-03-01,2022,3,Brazil,BRA,Latin America,BRL,1.108,113.12,Medium,False
+2022-04-01,2022,4,Brazil,BRA,Latin America,BRL,1.124,110.3,Medium,False
+2022-05-01,2022,5,Brazil,BRA,Latin America,BRL,1.13,113.65,Medium,False
+2022-06-01,2022,6,Brazil,BRA,Latin America,BRL,1.103,110.13,Medium,False
+2022-07-01,2022,7,Brazil,BRA,Latin America,BRL,1.073,101.45,Medium,False
+2022-08-01,2022,8,Brazil,BRA,Latin America,BRL,1.052,94.44,Medium,False
+2022-09-01,2022,9,Brazil,BRA,Latin America,BRL,1.035,90.57,Medium,False
+2022-10-01,2022,10,Brazil,BRA,Latin America,BRL,1.037,88.6,Medium,False
+2022-11-01,2022,11,Brazil,BRA,Latin America,BRL,1.002,84.09,Medium,False
+2022-12-01,2022,12,Brazil,BRA,Latin America,BRL,0.993,81.94,Medium,False
+2023-01-01,2023,1,Brazil,BRA,Latin America,BRL,1.013,83.22,Medium,False
+2023-02-01,2023,2,Brazil,BRA,Latin America,BRL,1.005,82.29,Medium,False
+2023-03-01,2023,3,Brazil,BRA,Latin America,BRL,1.003,78.95,Medium,False
+2023-04-01,2023,4,Brazil,BRA,Latin America,BRL,0.974,76.73,Medium,False
+2023-05-01,2023,5,Brazil,BRA,Latin America,BRL,0.972,75.8,Medium,False
+2023-06-01,2023,6,Brazil,BRA,Latin America,BRL,0.966,78.09,Medium,False
+2023-07-01,2023,7,Brazil,BRA,Latin America,BRL,1.026,83.05,Medium,False
+2023-08-01,2023,8,Brazil,BRA,Latin America,BRL,1.008,89.47,Medium,False
+2023-09-01,2023,9,Brazil,BRA,Latin America,BRL,1.037,90.72,Medium,False
+2023-10-01,2023,10,Brazil,BRA,Latin America,BRL,0.999,85.31,Medium,False
+2023-11-01,2023,11,Brazil,BRA,Latin America,BRL,0.998,80.58,Medium,False
+2023-12-01,2023,12,Brazil,BRA,Latin America,BRL,0.998,78.95,Medium,False
+2024-01-01,2024,1,Brazil,BRA,Latin America,BRL,0.969,80.62,Medium,False
+2024-02-01,2024,2,Brazil,BRA,Latin America,BRL,1.003,83.91,Medium,False
+2024-03-01,2024,3,Brazil,BRA,Latin America,BRL,0.993,87.13,Medium,False
+2024-04-01,2024,4,Brazil,BRA,Latin America,BRL,1.039,86.69,Medium,False
+2024-05-01,2024,5,Brazil,BRA,Latin America,BRL,1.0,83.99,Medium,False
+2024-06-01,2024,6,Brazil,BRA,Latin America,BRL,0.988,85.16,Medium,False
+2024-07-01,2024,7,Brazil,BRA,Latin America,BRL,0.988,82.04,Medium,False
+2024-08-01,2024,8,Brazil,BRA,Latin America,BRL,1.004,78.41,Medium,False
+2024-09-01,2024,9,Brazil,BRA,Latin America,BRL,0.998,76.27,Medium,False
+2024-10-01,2024,10,Brazil,BRA,Latin America,BRL,0.985,73.85,Medium,False
+2024-11-01,2024,11,Brazil,BRA,Latin America,BRL,0.959,75.22,Medium,False
+2024-12-01,2024,12,Brazil,BRA,Latin America,BRL,0.982,78.32,Medium,False
+2025-01-01,2025,1,Brazil,BRA,Latin America,BRL,1.008,78.26,Medium,False
+2025-02-01,2025,2,Brazil,BRA,Latin America,BRL,0.96,75.04,Medium,False
+2025-03-01,2025,3,Brazil,BRA,Latin America,BRL,0.95,71.18,Medium,False
+2025-04-01,2025,4,Brazil,BRA,Latin America,BRL,0.931,68.93,Medium,False
+2025-05-01,2025,5,Brazil,BRA,Latin America,BRL,0.925,68.11,Medium,False
+2025-06-01,2025,6,Brazil,BRA,Latin America,BRL,0.967,69.63,Medium,False
+2025-07-01,2025,7,Brazil,BRA,Latin America,BRL,0.964,71.19,Medium,False
+2025-08-01,2025,8,Brazil,BRA,Latin America,BRL,0.964,71.81,Medium,False
+2025-09-01,2025,9,Brazil,BRA,Latin America,BRL,0.972,73.22,Medium,False
+2025-10-01,2025,10,Brazil,BRA,Latin America,BRL,0.982,74.05,Medium,False
+2025-11-01,2025,11,Brazil,BRA,Latin America,BRL,0.991,74.48,Medium,False
+2025-12-01,2025,12,Brazil,BRA,Latin America,BRL,0.966,73.87,Medium,False
+2026-01-01,2026,1,Brazil,BRA,Latin America,BRL,0.956,72.62,Medium,False
+2026-02-01,2026,2,Brazil,BRA,Latin America,BRL,0.945,72.51,Medium,False
+2026-03-01,2026,3,Brazil,BRA,Latin America,BRL,0.977,72.61,Medium,False
+2020-01-01,2020,1,Mexico,MEX,Latin America,MXN,0.701,57.29,Medium,True
+2020-02-01,2020,2,Mexico,MEX,Latin America,MXN,0.646,44.76,Medium,True
+2020-03-01,2020,3,Mexico,MEX,Latin America,MXN,0.627,32.92,Medium,True
+2020-04-01,2020,4,Mexico,MEX,Latin America,MXN,0.624,30.84,Medium,True
+2020-05-01,2020,5,Mexico,MEX,Latin America,MXN,0.659,37.85,Medium,True
+2020-06-01,2020,6,Mexico,MEX,Latin America,MXN,0.676,42.24,Medium,True
+2020-07-01,2020,7,Mexico,MEX,Latin America,MXN,0.651,42.5,Medium,True
+2020-08-01,2020,8,Mexico,MEX,Latin America,MXN,0.647,41.8,Medium,True
+2020-09-01,2020,9,Mexico,MEX,Latin America,MXN,0.653,41.4,Medium,True
+2020-10-01,2020,10,Mexico,MEX,Latin America,MXN,0.648,44.0,Medium,True
+2020-11-01,2020,11,Mexico,MEX,Latin America,MXN,0.677,47.8,Medium,True
+2020-12-01,2020,12,Mexico,MEX,Latin America,MXN,0.702,53.06,Medium,True
+2021-01-01,2021,1,Mexico,MEX,Latin America,MXN,0.714,58.7,Medium,True
+2021-02-01,2021,2,Mexico,MEX,Latin America,MXN,0.708,64.41,Medium,True
+2021-03-01,2021,3,Mexico,MEX,Latin America,MXN,0.722,66.8,Medium,True
+2021-04-01,2021,4,Mexico,MEX,Latin America,MXN,0.762,67.58,Medium,True
+2021-05-01,2021,5,Mexico,MEX,Latin America,MXN,0.74,71.65,Medium,True
+2021-06-01,2021,6,Mexico,MEX,Latin America,MXN,0.775,74.18,Medium,True
+2021-07-01,2021,7,Mexico,MEX,Latin America,MXN,0.775,74.83,Medium,True
+2021-08-01,2021,8,Mexico,MEX,Latin America,MXN,0.765,76.07,Medium,True
+2021-09-01,2021,9,Mexico,MEX,Latin America,MXN,0.765,79.3,Medium,True
+2021-10-01,2021,10,Mexico,MEX,Latin America,MXN,0.792,82.1,Medium,True
+2021-11-01,2021,11,Mexico,MEX,Latin America,MXN,0.761,77.71,Medium,True
+2021-12-01,2021,12,Mexico,MEX,Latin America,MXN,0.778,79.4,Medium,True
+2022-01-01,2022,1,Mexico,MEX,Latin America,MXN,0.79,89.91,Medium,True
+2022-02-01,2022,2,Mexico,MEX,Latin America,MXN,0.808,105.65,Medium,True
+2022-03-01,2022,3,Mexico,MEX,Latin America,MXN,0.83,113.12,Medium,True
+2022-04-01,2022,4,Mexico,MEX,Latin America,MXN,0.823,110.3,Medium,True
+2022-05-01,2022,5,Mexico,MEX,Latin America,MXN,0.816,113.65,Medium,True
+2022-06-01,2022,6,Mexico,MEX,Latin America,MXN,0.825,110.13,Medium,True
+2022-07-01,2022,7,Mexico,MEX,Latin America,MXN,0.801,101.45,Medium,True
+2022-08-01,2022,8,Mexico,MEX,Latin America,MXN,0.77,94.44,Medium,True
+2022-09-01,2022,9,Mexico,MEX,Latin America,MXN,0.785,90.57,Medium,True
+2022-10-01,2022,10,Mexico,MEX,Latin America,MXN,0.782,88.6,Medium,True
+2022-11-01,2022,11,Mexico,MEX,Latin America,MXN,0.768,84.09,Medium,True
+2022-12-01,2022,12,Mexico,MEX,Latin America,MXN,0.742,81.94,Medium,True
+2023-01-01,2023,1,Mexico,MEX,Latin America,MXN,0.787,83.22,Medium,True
+2023-02-01,2023,2,Mexico,MEX,Latin America,MXN,0.784,82.29,Medium,True
+2023-03-01,2023,3,Mexico,MEX,Latin America,MXN,0.777,78.95,Medium,True
+2023-04-01,2023,4,Mexico,MEX,Latin America,MXN,0.768,76.73,Medium,True
+2023-05-01,2023,5,Mexico,MEX,Latin America,MXN,0.742,75.8,Medium,True
+2023-06-01,2023,6,Mexico,MEX,Latin America,MXN,0.767,78.09,Medium,True
+2023-07-01,2023,7,Mexico,MEX,Latin America,MXN,0.761,83.05,Medium,True
+2023-08-01,2023,8,Mexico,MEX,Latin America,MXN,0.82,89.47,Medium,True
+2023-09-01,2023,9,Mexico,MEX,Latin America,MXN,0.782,90.72,Medium,True
+2023-10-01,2023,10,Mexico,MEX,Latin America,MXN,0.79,85.31,Medium,True
+2023-11-01,2023,11,Mexico,MEX,Latin America,MXN,0.747,80.58,Medium,True
+2023-12-01,2023,12,Mexico,MEX,Latin America,MXN,0.75,78.95,Medium,True
+2024-01-01,2024,1,Mexico,MEX,Latin America,MXN,0.762,80.62,Medium,True
+2024-02-01,2024,2,Mexico,MEX,Latin America,MXN,0.787,83.91,Medium,True
+2024-03-01,2024,3,Mexico,MEX,Latin America,MXN,0.791,87.13,Medium,True
+2024-04-01,2024,4,Mexico,MEX,Latin America,MXN,0.787,86.69,Medium,True
+2024-05-01,2024,5,Mexico,MEX,Latin America,MXN,0.749,83.99,Medium,True
+2024-06-01,2024,6,Mexico,MEX,Latin America,MXN,0.796,85.16,Medium,True
+2024-07-01,2024,7,Mexico,MEX,Latin America,MXN,0.759,82.04,Medium,True
+2024-08-01,2024,8,Mexico,MEX,Latin America,MXN,0.79,78.41,Medium,True
+2024-09-01,2024,9,Mexico,MEX,Latin America,MXN,0.79,76.27,Medium,True
+2024-10-01,2024,10,Mexico,MEX,Latin America,MXN,0.77,73.85,Medium,True
+2024-11-01,2024,11,Mexico,MEX,Latin America,MXN,0.775,75.22,Medium,True
+2024-12-01,2024,12,Mexico,MEX,Latin America,MXN,0.747,78.32,Medium,True
+2025-01-01,2025,1,Mexico,MEX,Latin America,MXN,0.805,78.26,Medium,True
+2025-02-01,2025,2,Mexico,MEX,Latin America,MXN,0.763,75.04,Medium,True
+2025-03-01,2025,3,Mexico,MEX,Latin America,MXN,0.767,71.18,Medium,True
+2025-04-01,2025,4,Mexico,MEX,Latin America,MXN,0.735,68.93,Medium,True
+2025-05-01,2025,5,Mexico,MEX,Latin America,MXN,0.745,68.11,Medium,True
+2025-06-01,2025,6,Mexico,MEX,Latin America,MXN,0.731,69.63,Medium,True
+2025-07-01,2025,7,Mexico,MEX,Latin America,MXN,0.749,71.19,Medium,True
+2025-08-01,2025,8,Mexico,MEX,Latin America,MXN,0.754,71.81,Medium,True
+2025-09-01,2025,9,Mexico,MEX,Latin America,MXN,0.76,73.22,Medium,True
+2025-10-01,2025,10,Mexico,MEX,Latin America,MXN,0.779,74.05,Medium,True
+2025-11-01,2025,11,Mexico,MEX,Latin America,MXN,0.766,74.48,Medium,True
+2025-12-01,2025,12,Mexico,MEX,Latin America,MXN,0.761,73.87,Medium,True
+2026-01-01,2026,1,Mexico,MEX,Latin America,MXN,0.756,72.62,Medium,True
+2026-02-01,2026,2,Mexico,MEX,Latin America,MXN,0.785,72.51,Medium,True
+2026-03-01,2026,3,Mexico,MEX,Latin America,MXN,0.746,72.61,Medium,True
+2020-01-01,2020,1,Australia,AUS,Asia Pacific,AUD,1.011,57.29,Medium,False
+2020-02-01,2020,2,Australia,AUS,Asia Pacific,AUD,0.907,44.76,Medium,False
+2020-03-01,2020,3,Australia,AUS,Asia Pacific,AUD,0.87,32.92,Medium,False
+2020-04-01,2020,4,Australia,AUS,Asia Pacific,AUD,0.88,30.84,Medium,False
+2020-05-01,2020,5,Australia,AUS,Asia Pacific,AUD,0.903,37.85,Medium,False
+2020-06-01,2020,6,Australia,AUS,Asia Pacific,AUD,0.97,42.24,Medium,False
+2020-07-01,2020,7,Australia,AUS,Asia Pacific,AUD,0.965,42.5,Medium,False
+2020-08-01,2020,8,Australia,AUS,Asia Pacific,AUD,0.9,41.8,Medium,False
+2020-09-01,2020,9,Australia,AUS,Asia Pacific,AUD,0.905,41.4,Medium,False
+2020-10-01,2020,10,Australia,AUS,Asia Pacific,AUD,0.931,44.0,Medium,False
+2020-11-01,2020,11,Australia,AUS,Asia Pacific,AUD,0.976,47.8,Medium,False
+2020-12-01,2020,12,Australia,AUS,Asia Pacific,AUD,0.991,53.06,Medium,False
+2021-01-01,2021,1,Australia,AUS,Asia Pacific,AUD,1.004,58.7,Medium,False
+2021-02-01,2021,2,Australia,AUS,Asia Pacific,AUD,1.004,64.41,Medium,False
+2021-03-01,2021,3,Australia,AUS,Asia Pacific,AUD,1.023,66.8,Medium,False
+2021-04-01,2021,4,Australia,AUS,Asia Pacific,AUD,0.999,67.58,Medium,False
+2021-05-01,2021,5,Australia,AUS,Asia Pacific,AUD,1.034,71.65,Medium,False
+2021-06-01,2021,6,Australia,AUS,Asia Pacific,AUD,1.075,74.18,Medium,False
+2021-07-01,2021,7,Australia,AUS,Asia Pacific,AUD,1.084,74.83,Medium,False
+2021-08-01,2021,8,Australia,AUS,Asia Pacific,AUD,1.058,76.07,Medium,False
+2021-09-01,2021,9,Australia,AUS,Asia Pacific,AUD,1.094,79.3,Medium,False
+2021-10-01,2021,10,Australia,AUS,Asia Pacific,AUD,1.129,82.1,Medium,False
+2021-11-01,2021,11,Australia,AUS,Asia Pacific,AUD,1.087,77.71,Medium,False
+2021-12-01,2021,12,Australia,AUS,Asia Pacific,AUD,1.088,79.4,Medium,False
+2022-01-01,2022,1,Australia,AUS,Asia Pacific,AUD,1.149,89.91,Medium,False
+2022-02-01,2022,2,Australia,AUS,Asia Pacific,AUD,1.218,105.65,Medium,False
+2022-03-01,2022,3,Australia,AUS,Asia Pacific,AUD,1.245,113.12,Medium,False
+2022-04-01,2022,4,Australia,AUS,Asia Pacific,AUD,1.223,110.3,Medium,False
+2022-05-01,2022,5,Australia,AUS,Asia Pacific,AUD,1.24,113.65,Medium,False
+2022-06-01,2022,6,Australia,AUS,Asia Pacific,AUD,1.232,110.13,Medium,False
+2022-07-01,2022,7,Australia,AUS,Asia Pacific,AUD,1.183,101.45,Medium,False
+2022-08-01,2022,8,Australia,AUS,Asia Pacific,AUD,1.18,94.44,Medium,False
+2022-09-01,2022,9,Australia,AUS,Asia Pacific,AUD,1.156,90.57,Medium,False
+2022-10-01,2022,10,Australia,AUS,Asia Pacific,AUD,1.15,88.6,Medium,False
+2022-11-01,2022,11,Australia,AUS,Asia Pacific,AUD,1.144,84.09,Medium,False
+2022-12-01,2022,12,Australia,AUS,Asia Pacific,AUD,1.128,81.94,Medium,False
+2023-01-01,2023,1,Australia,AUS,Asia Pacific,AUD,1.131,83.22,Medium,False
+2023-02-01,2023,2,Australia,AUS,Asia Pacific,AUD,1.111,82.29,Medium,False
+2023-03-01,2023,3,Australia,AUS,Asia Pacific,AUD,1.087,78.95,Medium,False
+2023-04-01,2023,4,Australia,AUS,Asia Pacific,AUD,1.115,76.73,Medium,False
+2023-05-01,2023,5,Australia,AUS,Asia Pacific,AUD,1.066,75.8,Medium,False
+2023-06-01,2023,6,Australia,AUS,Asia Pacific,AUD,1.077,78.09,Medium,False
+2023-07-01,2023,7,Australia,AUS,Asia Pacific,AUD,1.096,83.05,Medium,False
+2023-08-01,2023,8,Australia,AUS,Asia Pacific,AUD,1.141,89.47,Medium,False
+2023-09-01,2023,9,Australia,AUS,Asia Pacific,AUD,1.15,90.72,Medium,False
+2023-10-01,2023,10,Australia,AUS,Asia Pacific,AUD,1.134,85.31,Medium,False
+2023-11-01,2023,11,Australia,AUS,Asia Pacific,AUD,1.094,80.58,Medium,False
+2023-12-01,2023,12,Australia,AUS,Asia Pacific,AUD,1.064,78.95,Medium,False
+2024-01-01,2024,1,Australia,AUS,Asia Pacific,AUD,1.103,80.62,Medium,False
+2024-02-01,2024,2,Australia,AUS,Asia Pacific,AUD,1.127,83.91,Medium,False
+2024-03-01,2024,3,Australia,AUS,Asia Pacific,AUD,1.128,87.13,Medium,False
+2024-04-01,2024,4,Australia,AUS,Asia Pacific,AUD,1.123,86.69,Medium,False
+2024-05-01,2024,5,Australia,AUS,Asia Pacific,AUD,1.121,83.99,Medium,False
+2024-06-01,2024,6,Australia,AUS,Asia Pacific,AUD,1.14,85.16,Medium,False
+2024-07-01,2024,7,Australia,AUS,Asia Pacific,AUD,1.103,82.04,Medium,False
+2024-08-01,2024,8,Australia,AUS,Asia Pacific,AUD,1.067,78.41,Medium,False
+2024-09-01,2024,9,Australia,AUS,Asia Pacific,AUD,1.07,76.27,Medium,False
+2024-10-01,2024,10,Australia,AUS,Asia Pacific,AUD,1.065,73.85,Medium,False
+2024-11-01,2024,11,Australia,AUS,Asia Pacific,AUD,1.047,75.22,Medium,False
+2024-12-01,2024,12,Australia,AUS,Asia Pacific,AUD,1.099,78.32,Medium,False
+2025-01-01,2025,1,Australia,AUS,Asia Pacific,AUD,1.076,78.26,Medium,False
+2025-02-01,2025,2,Australia,AUS,Asia Pacific,AUD,1.08,75.04,Medium,False
+2025-03-01,2025,3,Australia,AUS,Asia Pacific,AUD,1.058,71.18,Medium,False
+2025-04-01,2025,4,Australia,AUS,Asia Pacific,AUD,1.041,68.93,Medium,False
+2025-05-01,2025,5,Australia,AUS,Asia Pacific,AUD,1.066,68.11,Medium,False
+2025-06-01,2025,6,Australia,AUS,Asia Pacific,AUD,1.04,69.63,Medium,False
+2025-07-01,2025,7,Australia,AUS,Asia Pacific,AUD,1.045,71.19,Medium,False
+2025-08-01,2025,8,Australia,AUS,Asia Pacific,AUD,1.063,71.81,Medium,False
+2025-09-01,2025,9,Australia,AUS,Asia Pacific,AUD,1.077,73.22,Medium,False
+2025-10-01,2025,10,Australia,AUS,Asia Pacific,AUD,1.068,74.05,Medium,False
+2025-11-01,2025,11,Australia,AUS,Asia Pacific,AUD,1.055,74.48,Medium,False
+2025-12-01,2025,12,Australia,AUS,Asia Pacific,AUD,1.078,73.87,Medium,False
+2026-01-01,2026,1,Australia,AUS,Asia Pacific,AUD,1.071,72.62,Medium,False
+2026-02-01,2026,2,Australia,AUS,Asia Pacific,AUD,1.092,72.51,Medium,False
+2026-03-01,2026,3,Australia,AUS,Asia Pacific,AUD,1.058,72.61,Medium,False
